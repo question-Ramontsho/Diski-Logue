@@ -20,11 +20,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
@@ -42,9 +44,13 @@ jobs:
         run: |
           git config user.name "diski-logue-bot"
           git config user.email "actions@github.com"
-          git add diski-logue-repo/docs/data/
-          git diff --staged --quiet || git commit -m "Auto-update season data [skip ci]"
+
           git pull --rebase origin main
+
+          git add diski-logue-repo/docs/data/
+
+          git diff --staged --quiet || git commit -m "Auto-update season data [skip ci]"
+
           git push
 
       - name: Upload Pages artifact
