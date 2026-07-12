@@ -1,0 +1,287 @@
+{
+  "competition": "PL",
+  "league_avg_goals": 1.35,
+  "generated_at_last_match": null,
+  "teams": [
+    {
+      "id": "1044",
+      "name": "AFC Bournemouth",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "57",
+      "name": "Arsenal FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "58",
+      "name": "Aston Villa FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "402",
+      "name": "Brentford FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "397",
+      "name": "Brighton & Hove Albion FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "61",
+      "name": "Chelsea FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "1076",
+      "name": "Coventry City FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "354",
+      "name": "Crystal Palace FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "62",
+      "name": "Everton FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "63",
+      "name": "Fulham FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "322",
+      "name": "Hull City AFC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "349",
+      "name": "Ipswich Town FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "341",
+      "name": "Leeds United FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "64",
+      "name": "Liverpool FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "65",
+      "name": "Manchester City FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "66",
+      "name": "Manchester United FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "67",
+      "name": "Newcastle United FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "351",
+      "name": "Nottingham Forest FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "71",
+      "name": "Sunderland AFC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    },
+    {
+      "id": "73",
+      "name": "Tottenham Hotspur FC",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.3,
+        "gf_avg": 1.2,
+        "ga_avg": 1.2,
+        "matches_considered": 0
+      },
+      "attack": 1.0,
+      "defense": 1.0,
+      "scorers": []
+    }
+  ]
+}

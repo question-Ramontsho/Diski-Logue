@@ -1,6 +1,16 @@
 {
   "competitions": [
     {
+      "code": "PL",
+      "name": "English Premier League",
+      "file": "data/PL.json"
+    },
+    {
+      "code": "WC",
+      "name": "FIFA World Cup",
+      "file": "data/WC.json"
+    },
+    {
       "code": "BW_PREMIER",
       "name": "Botswana Premier League",
       "file": "data/BW_PREMIER.json"

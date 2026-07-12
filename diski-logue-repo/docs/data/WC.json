@@ -1,0 +1,794 @@
+{
+  "competition": "WC",
+  "league_avg_goals": 1.585,
+  "generated_at_last_match": "2026-07-12T01:00:00Z",
+  "teams": [
+    {
+      "id": "778",
+      "name": "Algeria",
+      "elo": 1481.6,
+      "form": {
+        "ppg": 0.947,
+        "gf_avg": 1.254,
+        "ga_avg": 2.233,
+        "matches_considered": 4
+      },
+      "attack": 0.7886,
+      "defense": 1.4196,
+      "scorers": []
+    },
+    {
+      "id": "762",
+      "name": "Argentina",
+      "elo": 1582.0,
+      "form": {
+        "ppg": 3.0,
+        "gf_avg": 2.874,
+        "ga_avg": 1.146,
+        "matches_considered": 6
+      },
+      "attack": 1.7876,
+      "defense": 0.6309,
+      "scorers": [
+        {
+          "player": "Lionel Messi",
+          "goals": 8,
+          "share": 1.0
+        }
+      ]
+    },
+    {
+      "id": "779",
+      "name": "Australia",
+      "elo": 1481.9,
+      "form": {
+        "ppg": 0.845,
+        "gf_avg": 1.327,
+        "ga_avg": 2.023,
+        "matches_considered": 4
+      },
+      "attack": 0.7886,
+      "defense": 1.1041,
+      "scorers": []
+    },
+    {
+      "id": "816",
+      "name": "Austria",
+      "elo": 1486.2,
+      "form": {
+        "ppg": 0.845,
+        "gf_avg": 1.378,
+        "ga_avg": 2.388,
+        "matches_considered": 4
+      },
+      "attack": 0.9464,
+      "defense": 1.4196,
+      "scorers": []
+    },
+    {
+      "id": "805",
+      "name": "Belgium",
+      "elo": 1543.8,
+      "form": {
+        "ppg": 1.812,
+        "gf_avg": 2.428,
+        "ga_avg": 1.289,
+        "matches_considered": 6
+      },
+      "attack": 1.4721,
+      "defense": 0.7361,
+      "scorers": []
+    },
+    {
+      "id": "1060",
+      "name": "Bosnia-Herzegovina",
+      "elo": 1485.5,
+      "form": {
+        "ppg": 0.993,
+        "gf_avg": 1.22,
+        "ga_avg": 1.994,
+        "matches_considered": 4
+      },
+      "attack": 0.7886,
+      "defense": 1.2618,
+      "scorers": []
+    },
+    {
+      "id": "764",
+      "name": "Brazil",
+      "elo": 1532.9,
+      "form": {
+        "ppg": 1.91,
+        "gf_avg": 1.95,
+        "ga_avg": 0.909,
+        "matches_considered": 5
+      },
+      "attack": 1.2618,
+      "defense": 0.5047,
+      "scorers": [
+        {
+          "player": "Vinicius Junior",
+          "goals": 4,
+          "share": 0.5714
+        },
+        {
+          "player": "Matheus Cunha",
+          "goals": 3,
+          "share": 0.4286
+        }
+      ]
+    },
+    {
+      "id": "828",
+      "name": "Canada",
+      "elo": 1496.2,
+      "form": {
+        "ppg": 1.325,
+        "gf_avg": 1.558,
+        "ga_avg": 1.339,
+        "matches_considered": 5
+      },
+      "attack": 1.1356,
+      "defense": 0.7571,
+      "scorers": [
+        {
+          "player": "Jonathan David",
+          "goals": 3,
+          "share": 1.0
+        }
+      ]
+    },
+    {
+      "id": "1930",
+      "name": "Cape Verde Islands",
+      "elo": 1492.9,
+      "form": {
+        "ppg": 0.686,
+        "gf_avg": 1.081,
+        "ga_avg": 1.395,
+        "matches_considered": 4
+      },
+      "attack": 0.6309,
+      "defense": 0.7886,
+      "scorers": []
+    },
+    {
+      "id": "818",
+      "name": "Colombia",
+      "elo": 1527.1,
+      "form": {
+        "ppg": 1.801,
+        "gf_avg": 1.626,
+        "ga_avg": 1.219,
+        "matches_considered": 5
+      },
+      "attack": 1.0095,
+      "defense": 0.6309,
+      "scorers": []
+    },
+    {
+      "id": "1934",
+      "name": "Congo DR",
+      "elo": 1497.1,
+      "form": {
+        "ppg": 0.993,
+        "gf_avg": 1.307,
+        "ga_avg": 1.314,
+        "matches_considered": 4
+      },
+      "attack": 0.7886,
+      "defense": 0.7886,
+      "scorers": [
+        {
+          "player": "Yoane Wissa",
+          "goals": 3,
+          "share": 1.0
+        }
+      ]
+    },
+    {
+      "id": "799",
+      "name": "Croatia",
+      "elo": 1500.0,
+      "form": {
+        "ppg": 1.48,
+        "gf_avg": 1.459,
+        "ga_avg": 1.665,
+        "matches_considered": 4
+      },
+      "attack": 0.9464,
+      "defense": 1.1041,
+      "scorers": []
+    },
+    {
+      "id": "9460",
+      "name": "Cura\u00e7ao",
+      "elo": 1464.6,
+      "form": {
+        "ppg": 0.33,
+        "gf_avg": 0.281,
+        "ga_avg": 2.743,
+        "matches_considered": 3
+      },
+      "attack": 0.2103,
+      "defense": 1.8927,
+      "scorers": []
+    },
+    {
+      "id": "798",
+      "name": "Czechia",
+      "elo": 1465.4,
+      "form": {
+        "ppg": 0.33,
+        "gf_avg": 0.611,
+        "ga_avg": 2.058,
+        "matches_considered": 3
+      },
+      "attack": 0.4206,
+      "defense": 1.2618,
+      "scorers": []
+    },
+    {
+      "id": "791",
+      "name": "Ecuador",
+      "elo": 1486.5,
+      "form": {
+        "ppg": 1.027,
+        "gf_avg": 0.533,
+        "ga_avg": 1.087,
+        "matches_considered": 4
+      },
+      "attack": 0.3155,
+      "defense": 0.6309,
+      "scorers": []
+    },
+    {
+      "id": "825",
+      "name": "Egypt",
+      "elo": 1531.1,
+      "form": {
+        "ppg": 1.52,
+        "gf_avg": 2.518,
+        "ga_avg": 1.998,
+        "matches_considered": 5
+      },
+      "attack": 1.5142,
+      "defense": 1.1356,
+      "scorers": []
+    },
+    {
+      "id": "770",
+      "name": "England",
+      "elo": 1569.1,
+      "form": {
+        "ppg": 2.749,
+        "gf_avg": 2.167,
+        "ga_avg": 1.038,
+        "matches_considered": 6
+      },
+      "attack": 1.367,
+      "defense": 0.6309,
+      "scorers": [
+        {
+          "player": "Harry Kane",
+          "goals": 6,
+          "share": 0.5
+        },
+        {
+          "player": "Jude Bellingham",
+          "goals": 6,
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "id": "773",
+      "name": "France",
+      "elo": 1595.4,
+      "form": {
+        "ppg": 3.0,
+        "gf_avg": 2.498,
+        "ga_avg": 0.255,
+        "matches_considered": 6
+      },
+      "attack": 1.6824,
+      "defense": 0.2103,
+      "scorers": [
+        {
+          "player": "Kylian Mbapp\u00e9",
+          "goals": 8,
+          "share": 0.6154
+        },
+        {
+          "player": "Ousmane Demb\u00e9l\u00e9",
+          "goals": 5,
+          "share": 0.3846
+        }
+      ]
+    },
+    {
+      "id": "759",
+      "name": "Germany",
+      "elo": 1501.1,
+      "form": {
+        "ppg": 1.258,
+        "gf_avg": 3.324,
+        "ga_avg": 2.522,
+        "matches_considered": 4
+      },
+      "attack": 2.2082,
+      "defense": 1.4196,
+      "scorers": [
+        {
+          "player": "Deniz Undav",
+          "goals": 3,
+          "share": 0.5
+        },
+        {
+          "player": "Kai Havertz",
+          "goals": 3,
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "id": "763",
+      "name": "Ghana",
+      "elo": 1492.7,
+      "form": {
+        "ppg": 0.805,
+        "gf_avg": 0.459,
+        "ga_avg": 0.847,
+        "matches_considered": 4
+      },
+      "attack": 0.3155,
+      "defense": 0.4732,
+      "scorers": []
+    },
+    {
+      "id": "836",
+      "name": "Haiti",
+      "elo": 1456.6,
+      "form": {
+        "ppg": 0.0,
+        "gf_avg": 0.777,
+        "ga_avg": 2.827,
+        "matches_considered": 3
+      },
+      "attack": 0.4206,
+      "defense": 1.6824,
+      "scorers": []
+    },
+    {
+      "id": "840",
+      "name": "Iran",
+      "elo": 1502.8,
+      "form": {
+        "ppg": 1.0,
+        "gf_avg": 0.95,
+        "ga_avg": 0.95,
+        "matches_considered": 3
+      },
+      "attack": 0.6309,
+      "defense": 0.6309,
+      "scorers": []
+    },
+    {
+      "id": "8062",
+      "name": "Iraq",
+      "elo": 1443.8,
+      "form": {
+        "ppg": 0.0,
+        "gf_avg": 0.281,
+        "ga_avg": 4.058,
+        "matches_considered": 3
+      },
+      "attack": 0.2103,
+      "defense": 2.5237,
+      "scorers": []
+    },
+    {
+      "id": "1935",
+      "name": "Ivory Coast",
+      "elo": 1506.1,
+      "form": {
+        "ppg": 1.378,
+        "gf_avg": 1.267,
+        "ga_avg": 1.081,
+        "matches_considered": 4
+      },
+      "attack": 0.7886,
+      "defense": 0.6309,
+      "scorers": []
+    },
+    {
+      "id": "766",
+      "name": "Japan",
+      "elo": 1513.1,
+      "form": {
+        "ppg": 1.14,
+        "gf_avg": 1.873,
+        "ga_avg": 1.28,
+        "matches_considered": 4
+      },
+      "attack": 1.2618,
+      "defense": 0.7886,
+      "scorers": []
+    },
+    {
+      "id": "8049",
+      "name": "Jordan",
+      "elo": 1453.0,
+      "form": {
+        "ppg": 0.0,
+        "gf_avg": 1.0,
+        "ga_avg": 2.67,
+        "matches_considered": 3
+      },
+      "attack": 0.6309,
+      "defense": 1.6824,
+      "scorers": []
+    },
+    {
+      "id": "769",
+      "name": "Mexico",
+      "elo": 1545.0,
+      "form": {
+        "ppg": 2.191,
+        "gf_avg": 2.029,
+        "ga_avg": 0.809,
+        "matches_considered": 5
+      },
+      "attack": 1.2618,
+      "defense": 0.3785,
+      "scorers": [
+        {
+          "player": "Juli\u00e1n Qui\u00f1ones",
+          "goals": 4,
+          "share": 0.5714
+        },
+        {
+          "player": "Ra\u00fal Jim\u00e9nez",
+          "goals": 3,
+          "share": 0.4286
+        }
+      ]
+    },
+    {
+      "id": "815",
+      "name": "Morocco",
+      "elo": 1552.3,
+      "form": {
+        "ppg": 2.064,
+        "gf_avg": 2.134,
+        "ga_avg": 1.406,
+        "matches_considered": 6
+      },
+      "attack": 1.367,
+      "defense": 0.8412,
+      "scorers": [
+        {
+          "player": "Ismael Saibari",
+          "goals": 3,
+          "share": 1.0
+        }
+      ]
+    },
+    {
+      "id": "8601",
+      "name": "Netherlands",
+      "elo": 1520.4,
+      "form": {
+        "ppg": 1.673,
+        "gf_avg": 3.261,
+        "ga_avg": 2.134,
+        "matches_considered": 4
+      },
+      "attack": 2.0505,
+      "defense": 1.2618,
+      "scorers": []
+    },
+    {
+      "id": "783",
+      "name": "New Zealand",
+      "elo": 1457.3,
+      "form": {
+        "ppg": 0.281,
+        "gf_avg": 1.281,
+        "ga_avg": 3.497,
+        "matches_considered": 3
+      },
+      "attack": 0.8412,
+      "defense": 2.103,
+      "scorers": [
+        {
+          "player": "Elijah Just",
+          "goals": 3,
+          "share": 1.0
+        }
+      ]
+    },
+    {
+      "id": "8872",
+      "name": "Norway",
+      "elo": 1524.3,
+      "form": {
+        "ppg": 1.834,
+        "gf_avg": 1.951,
+        "ga_avg": 1.81,
+        "matches_considered": 6
+      },
+      "attack": 1.367,
+      "defense": 1.1567,
+      "scorers": [
+        {
+          "player": "Erling Haaland",
+          "goals": 7,
+          "share": 1.0
+        }
+      ]
+    },
+    {
+      "id": "1836",
+      "name": "Panama",
+      "elo": 1456.6,
+      "form": {
+        "ppg": 0.0,
+        "gf_avg": 0.0,
+        "ga_avg": 1.389,
+        "matches_considered": 3
+      },
+      "attack": 0.0,
+      "defense": 0.8412,
+      "scorers": []
+    },
+    {
+      "id": "761",
+      "name": "Paraguay",
+      "elo": 1497.5,
+      "form": {
+        "ppg": 1.379,
+        "gf_avg": 1.452,
+        "ga_avg": 1.749,
+        "matches_considered": 5
+      },
+      "attack": 0.8833,
+      "defense": 1.1356,
+      "scorers": []
+    },
+    {
+      "id": "765",
+      "name": "Portugal",
+      "elo": 1513.1,
+      "form": {
+        "ppg": 1.52,
+        "gf_avg": 1.427,
+        "ga_avg": 0.64,
+        "matches_considered": 5
+      },
+      "attack": 1.0095,
+      "defense": 0.3785,
+      "scorers": []
+    },
+    {
+      "id": "8030",
+      "name": "Qatar",
+      "elo": 1465.8,
+      "form": {
+        "ppg": 0.281,
+        "gf_avg": 0.67,
+        "ga_avg": 3.43,
+        "matches_considered": 3
+      },
+      "attack": 0.4206,
+      "defense": 2.103,
+      "scorers": []
+    },
+    {
+      "id": "801",
+      "name": "Saudi Arabia",
+      "elo": 1483.4,
+      "form": {
+        "ppg": 0.67,
+        "gf_avg": 0.281,
+        "ga_avg": 1.603,
+        "matches_considered": 3
+      },
+      "attack": 0.2103,
+      "defense": 1.0515,
+      "scorers": []
+    },
+    {
+      "id": "8873",
+      "name": "Scotland",
+      "elo": 1475.9,
+      "form": {
+        "ppg": 0.843,
+        "gf_avg": 0.281,
+        "ga_avg": 1.497,
+        "matches_considered": 3
+      },
+      "attack": 0.2103,
+      "defense": 0.8412,
+      "scorers": []
+    },
+    {
+      "id": "804",
+      "name": "Senegal",
+      "elo": 1483.8,
+      "form": {
+        "ppg": 0.8,
+        "gf_avg": 2.608,
+        "ga_avg": 2.2,
+        "matches_considered": 4
+      },
+      "attack": 1.5773,
+      "defense": 1.4196,
+      "scorers": [
+        {
+          "player": "Isma\u00efla Sarr",
+          "goals": 4,
+          "share": 1.0
+        }
+      ]
+    },
+    {
+      "id": "774",
+      "name": "South Africa",
+      "elo": 1483.9,
+      "form": {
+        "ppg": 1.027,
+        "gf_avg": 0.493,
+        "ga_avg": 0.926,
+        "matches_considered": 4
+      },
+      "attack": 0.3155,
+      "defense": 0.6309,
+      "scorers": []
+    },
+    {
+      "id": "772",
+      "name": "South Korea",
+      "elo": 1489.8,
+      "form": {
+        "ppg": 0.843,
+        "gf_avg": 0.562,
+        "ga_avg": 1.0,
+        "matches_considered": 3
+      },
+      "attack": 0.4206,
+      "defense": 0.6309,
+      "scorers": []
+    },
+    {
+      "id": "760",
+      "name": "Spain",
+      "elo": 1568.0,
+      "form": {
+        "ppg": 2.786,
+        "gf_avg": 1.859,
+        "ga_avg": 0.241,
+        "matches_considered": 6
+      },
+      "attack": 1.1567,
+      "defense": 0.1052,
+      "scorers": [
+        {
+          "player": "Mikel Oyarzabal",
+          "goals": 4,
+          "share": 1.0
+        }
+      ]
+    },
+    {
+      "id": "792",
+      "name": "Sweden",
+      "elo": 1487.4,
+      "form": {
+        "ppg": 0.845,
+        "gf_avg": 1.457,
+        "ga_avg": 2.535,
+        "matches_considered": 4
+      },
+      "attack": 1.1041,
+      "defense": 1.5773,
+      "scorers": []
+    },
+    {
+      "id": "788",
+      "name": "Switzerland",
+      "elo": 1538.1,
+      "form": {
+        "ppg": 2.064,
+        "gf_avg": 2.313,
+        "ga_avg": 1.717,
+        "matches_considered": 6
+      },
+      "attack": 1.4721,
+      "defense": 0.9464,
+      "scorers": [
+        {
+          "player": "Johan Manzambi",
+          "goals": 3,
+          "share": 1.0
+        }
+      ]
+    },
+    {
+      "id": "802",
+      "name": "Tunisia",
+      "elo": 1441.0,
+      "form": {
+        "ppg": 0.0,
+        "gf_avg": 0.67,
+        "ga_avg": 3.892,
+        "matches_considered": 3
+      },
+      "attack": 0.4206,
+      "defense": 2.5237,
+      "scorers": []
+    },
+    {
+      "id": "803",
+      "name": "Turkey",
+      "elo": 1483.0,
+      "form": {
+        "ppg": 1.166,
+        "gf_avg": 1.166,
+        "ga_avg": 1.67,
+        "matches_considered": 3
+      },
+      "attack": 0.6309,
+      "defense": 1.0515,
+      "scorers": []
+    },
+    {
+      "id": "771",
+      "name": "United States",
+      "elo": 1509.1,
+      "form": {
+        "ppg": 1.607,
+        "gf_avg": 2.012,
+        "ga_avg": 1.804,
+        "matches_considered": 5
+      },
+      "attack": 1.388,
+      "defense": 1.0095,
+      "scorers": [
+        {
+          "player": "Folarin Balogun",
+          "goals": 3,
+          "share": 1.0
+        }
+      ]
+    },
+    {
+      "id": "758",
+      "name": "Uruguay",
+      "elo": 1486.5,
+      "form": {
+        "ppg": 0.611,
+        "gf_avg": 0.942,
+        "ga_avg": 1.33,
+        "matches_considered": 3
+      },
+      "attack": 0.6309,
+      "defense": 0.8412,
+      "scorers": []
+    },
+    {
+      "id": "8070",
+      "name": "Uzbekistan",
+      "elo": 1449.2,
+      "form": {
+        "ppg": 0.0,
+        "gf_avg": 0.67,
+        "ga_avg": 3.661,
+        "matches_considered": 3
+      },
+      "attack": 0.4206,
+      "defense": 2.3134,
+      "scorers": []
+    }
+  ]
+}
