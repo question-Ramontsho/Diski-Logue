@@ -15,57 +15,56 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: diski-logue-deploy
+  cancel-in-progress: false
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
       - name: Install dependencies
         run: pip install -r diski-logue-repo/requirements.txt
-
       - name: Sync all competitions
         working-directory: diski-logue-repo
         env:
           FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: python -m diski_logue.scripts.sync_all
-
       - name: Commit updated data
         run: |
           git config user.name "diski-logue-bot"
           git config user.email "actions@github.com"
-
-          git pull --rebase origin main
-
           git add diski-logue-repo/docs/data/
-
-          git diff --staged --quiet || git commit -m "Auto-update season data [skip ci]"
-
-          git push
-
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Auto-update season data [skip ci]"
+            for i in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main && git push origin HEAD:main && break
+              echo "Push attempt $i failed, retrying..."
+              sleep 5
+            done
+          fi
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: diski-logue-repo/docs
-
   deploy:
     needs: update-data
     runs-on: ubuntu-latest
-
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
