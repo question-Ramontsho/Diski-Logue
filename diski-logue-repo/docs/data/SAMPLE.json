@@ -1,0 +1,402 @@
+{
+  "competition": "SAMPLE",
+  "league_avg_goals": 1.325,
+  "generated_at_last_match": "2026-03-09T15:00:00Z",
+  "teams": [
+    {
+      "id": "S006",
+      "name": "BDF XI",
+      "elo": 1615.4,
+      "form": {
+        "ppg": 2.728,
+        "gf_avg": 2.325,
+        "ga_avg": 0.324,
+        "matches_considered": 10
+      },
+      "attack": 1.5094,
+      "defense": 0.2264,
+      "scorers": [
+        {
+          "player": "BDF XI Striker 1",
+          "goals": 10,
+          "share": 0.5556
+        },
+        {
+          "player": "BDF XI Striker 3",
+          "goals": 6,
+          "share": 0.3333
+        },
+        {
+          "player": "BDF XI Striker 2",
+          "goals": 1,
+          "share": 0.0556
+        },
+        {
+          "player": "BDF XI Striker 4",
+          "goals": 1,
+          "share": 0.0556
+        }
+      ]
+    },
+    {
+      "id": "S010",
+      "name": "Extension Gunners",
+      "elo": 1465.7,
+      "form": {
+        "ppg": 0.916,
+        "gf_avg": 0.473,
+        "ga_avg": 1.365,
+        "matches_considered": 10
+      },
+      "attack": 0.5283,
+      "defense": 1.0566,
+      "scorers": [
+        {
+          "player": "Extension Gunners Striker 1",
+          "goals": 3,
+          "share": 0.3
+        },
+        {
+          "player": "Extension Gunners Striker 4",
+          "goals": 3,
+          "share": 0.3
+        },
+        {
+          "player": "Extension Gunners Striker 2",
+          "goals": 2,
+          "share": 0.2
+        },
+        {
+          "player": "Extension Gunners Striker 3",
+          "goals": 2,
+          "share": 0.2
+        }
+      ]
+    },
+    {
+      "id": "S000",
+      "name": "Gaborone United",
+      "elo": 1536.4,
+      "form": {
+        "ppg": 2.134,
+        "gf_avg": 1.458,
+        "ga_avg": 1.058,
+        "matches_considered": 10
+      },
+      "attack": 0.9811,
+      "defense": 0.8302,
+      "scorers": [
+        {
+          "player": "Gaborone United Striker 4",
+          "goals": 6,
+          "share": 0.4
+        },
+        {
+          "player": "Gaborone United Striker 2",
+          "goals": 5,
+          "share": 0.3333
+        },
+        {
+          "player": "Gaborone United Striker 1",
+          "goals": 2,
+          "share": 0.1333
+        },
+        {
+          "player": "Gaborone United Striker 3",
+          "goals": 2,
+          "share": 0.1333
+        }
+      ]
+    },
+    {
+      "id": "S002",
+      "name": "Jwaneng Galaxy",
+      "elo": 1460.2,
+      "form": {
+        "ppg": 0.762,
+        "gf_avg": 0.929,
+        "ga_avg": 2.256,
+        "matches_considered": 10
+      },
+      "attack": 0.7547,
+      "defense": 1.434,
+      "scorers": [
+        {
+          "player": "Jwaneng Galaxy Striker 4",
+          "goals": 4,
+          "share": 0.3636
+        },
+        {
+          "player": "Jwaneng Galaxy Striker 2",
+          "goals": 3,
+          "share": 0.2727
+        },
+        {
+          "player": "Jwaneng Galaxy Striker 3",
+          "goals": 3,
+          "share": 0.2727
+        },
+        {
+          "player": "Jwaneng Galaxy Striker 1",
+          "goals": 1,
+          "share": 0.0909
+        }
+      ]
+    },
+    {
+      "id": "S004",
+      "name": "Mochudi Wanderers",
+      "elo": 1534.7,
+      "form": {
+        "ppg": 1.779,
+        "gf_avg": 1.675,
+        "ga_avg": 0.843,
+        "matches_considered": 10
+      },
+      "attack": 1.2075,
+      "defense": 0.7547,
+      "scorers": [
+        {
+          "player": "Mochudi Wanderers Striker 1",
+          "goals": 6,
+          "share": 0.375
+        },
+        {
+          "player": "Mochudi Wanderers Striker 3",
+          "goals": 5,
+          "share": 0.3125
+        },
+        {
+          "player": "Mochudi Wanderers Striker 2",
+          "goals": 4,
+          "share": 0.25
+        },
+        {
+          "player": "Mochudi Wanderers Striker 4",
+          "goals": 1,
+          "share": 0.0625
+        }
+      ]
+    },
+    {
+      "id": "S008",
+      "name": "Molepolole Bees",
+      "elo": 1533.5,
+      "form": {
+        "ppg": 1.692,
+        "gf_avg": 1.952,
+        "ga_avg": 1.069,
+        "matches_considered": 10
+      },
+      "attack": 1.3585,
+      "defense": 0.9057,
+      "scorers": [
+        {
+          "player": "Molepolole Bees Striker 3",
+          "goals": 4,
+          "share": 0.3333
+        },
+        {
+          "player": "Molepolole Bees Striker 1",
+          "goals": 3,
+          "share": 0.25
+        },
+        {
+          "player": "Molepolole Bees Striker 4",
+          "goals": 3,
+          "share": 0.25
+        },
+        {
+          "player": "Molepolole Bees Striker 2",
+          "goals": 2,
+          "share": 0.1667
+        }
+      ]
+    },
+    {
+      "id": "S007",
+      "name": "Notwane FC",
+      "elo": 1484.8,
+      "form": {
+        "ppg": 1.363,
+        "gf_avg": 0.853,
+        "ga_avg": 1.592,
+        "matches_considered": 10
+      },
+      "attack": 0.6792,
+      "defense": 1.1321,
+      "scorers": [
+        {
+          "player": "Notwane FC Striker 1",
+          "goals": 4,
+          "share": 0.4444
+        },
+        {
+          "player": "Notwane FC Striker 3",
+          "goals": 3,
+          "share": 0.3333
+        },
+        {
+          "player": "Notwane FC Striker 2",
+          "goals": 2,
+          "share": 0.2222
+        }
+      ]
+    },
+    {
+      "id": "S003",
+      "name": "Orapa United",
+      "elo": 1416.8,
+      "form": {
+        "ppg": 0.437,
+        "gf_avg": 0.584,
+        "ga_avg": 1.793,
+        "matches_considered": 10
+      },
+      "attack": 0.4528,
+      "defense": 1.434,
+      "scorers": [
+        {
+          "player": "Orapa United Striker 2",
+          "goals": 5,
+          "share": 0.5
+        },
+        {
+          "player": "Orapa United Striker 3",
+          "goals": 3,
+          "share": 0.3
+        },
+        {
+          "player": "Orapa United Striker 1",
+          "goals": 2,
+          "share": 0.2
+        }
+      ]
+    },
+    {
+      "id": "S005",
+      "name": "Security Systems FC",
+      "elo": 1531.9,
+      "form": {
+        "ppg": 1.622,
+        "gf_avg": 2.099,
+        "ga_avg": 1.552,
+        "matches_considered": 10
+      },
+      "attack": 1.5849,
+      "defense": 1.0566,
+      "scorers": [
+        {
+          "player": "Security Systems FC Striker 2",
+          "goals": 9,
+          "share": 0.6
+        },
+        {
+          "player": "Security Systems FC Striker 3",
+          "goals": 4,
+          "share": 0.2667
+        },
+        {
+          "player": "Security Systems FC Striker 1",
+          "goals": 2,
+          "share": 0.1333
+        }
+      ]
+    },
+    {
+      "id": "S009",
+      "name": "Sua Flamingoes",
+      "elo": 1437.7,
+      "form": {
+        "ppg": 0.9,
+        "gf_avg": 0.607,
+        "ga_avg": 1.432,
+        "matches_considered": 10
+      },
+      "attack": 0.4528,
+      "defense": 1.1321,
+      "scorers": [
+        {
+          "player": "Sua Flamingoes Striker 1",
+          "goals": 4,
+          "share": 0.5
+        },
+        {
+          "player": "Sua Flamingoes Striker 2",
+          "goals": 4,
+          "share": 0.5
+        }
+      ]
+    },
+    {
+      "id": "S001",
+      "name": "Township Rollers",
+      "elo": 1428.3,
+      "form": {
+        "ppg": 0.594,
+        "gf_avg": 0.875,
+        "ga_avg": 1.901,
+        "matches_considered": 10
+      },
+      "attack": 0.7547,
+      "defense": 1.3585,
+      "scorers": [
+        {
+          "player": "Township Rollers Striker 4",
+          "goals": 5,
+          "share": 0.625
+        },
+        {
+          "player": "Township Rollers Striker 1",
+          "goals": 1,
+          "share": 0.125
+        },
+        {
+          "player": "Township Rollers Striker 2",
+          "goals": 1,
+          "share": 0.125
+        },
+        {
+          "player": "Township Rollers Striker 3",
+          "goals": 1,
+          "share": 0.125
+        }
+      ]
+    },
+    {
+      "id": "S011",
+      "name": "Uniao Flamengo",
+      "elo": 1554.6,
+      "form": {
+        "ppg": 1.927,
+        "gf_avg": 2.363,
+        "ga_avg": 1.008,
+        "matches_considered": 10
+      },
+      "attack": 1.7358,
+      "defense": 0.6792,
+      "scorers": [
+        {
+          "player": "Uniao Flamengo Striker 1",
+          "goals": 5,
+          "share": 0.3846
+        },
+        {
+          "player": "Uniao Flamengo Striker 4",
+          "goals": 4,
+          "share": 0.3077
+        },
+        {
+          "player": "Uniao Flamengo Striker 2",
+          "goals": 2,
+          "share": 0.1538
+        },
+        {
+          "player": "Uniao Flamengo Striker 3",
+          "goals": 2,
+          "share": 0.1538
+        }
+      ]
+    }
+  ]
+}

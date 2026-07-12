@@ -1,0 +1,48 @@
+{
+  "_comment": "Edit this file to control which competitions Diski Logue tracks. 'league_id' fields marked null need a one-time lookup — run: python -m diski_logue.cli find-league --search \"<name>\" --country \"<country>\" — then fill in the ID. Competitions with a null league_id/id are skipped automatically.",
+
+  "competitions": [
+    {
+      "code": "PL",
+      "name": "English Premier League",
+      "source": "football_data",
+      "param": "PL"
+    },
+    {
+      "code": "WC",
+      "name": "FIFA World Cup",
+      "source": "football_data",
+      "param": "WC"
+    },
+    {
+      "code": "PSL",
+      "name": "South Africa Premier Soccer League",
+      "source": "api_football",
+      "league_id": null,
+      "season": 2025,
+      "_lookup_hint": "find-league --search 'Premier Soccer League' --country 'South Africa'"
+    },
+    {
+      "code": "AFCON",
+      "name": "Africa Cup of Nations",
+      "source": "api_football",
+      "league_id": null,
+      "season": 2025,
+      "_lookup_hint": "find-league --search 'Africa Cup of Nations'"
+    },
+    {
+      "code": "BW_PREMIER",
+      "name": "Botswana Premier League",
+      "source": "csv",
+      "matches_csv": "data/bw_premier_matches.csv",
+      "scorers_csv": "data/bw_premier_scorers.csv",
+      "_note": "No confirmed API coverage for Botswana leagues — maintain results yourself in these CSVs. See diski_logue/data_sources/csv_import.py for the format."
+    },
+    {
+      "code": "SAMPLE",
+      "name": "Sample Demo League",
+      "source": "sample",
+      "rounds": 10
+    }
+  ]
+}

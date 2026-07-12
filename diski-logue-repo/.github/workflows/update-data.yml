@@ -1,0 +1,59 @@
+name: Update season data and deploy site
+
+on:
+  schedule:
+    - cron: '0 4 * * *'   # daily at 04:00 UTC — adjust to taste
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'diski_logue/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync all competitions
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: python -m diski_logue.scripts.sync_all
+
+      - name: Commit updated data
+        run: |
+          git config user.name "diski-logue-bot"
+          git config user.email "actions@github.com"
+          git add docs/data/
+          git diff --staged --quiet || git commit -m "Auto-update season data [skip ci]"
+          git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: update-data
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

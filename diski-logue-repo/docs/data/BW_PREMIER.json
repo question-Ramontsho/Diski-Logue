@@ -1,0 +1,81 @@
+{
+  "competition": "BW_PREMIER",
+  "league_avg_goals": 1.25,
+  "generated_at_last_match": "2026-03-08",
+  "teams": [
+    {
+      "id": "CSV1817873a",
+      "name": "Gaborone United",
+      "elo": 1520.4,
+      "form": {
+        "ppg": 1.661,
+        "gf_avg": 1.769,
+        "ga_avg": 1.108,
+        "matches_considered": 3
+      },
+      "attack": 1.3333,
+      "defense": 0.8,
+      "scorers": [
+        {
+          "player": "T. Kgosana",
+          "goals": 4,
+          "share": 1.0
+        }
+      ]
+    },
+    {
+      "id": "CSV0a717c23",
+      "name": "Jwaneng Galaxy",
+      "elo": 1449.9,
+      "form": {
+        "ppg": 0.0,
+        "gf_avg": 0.611,
+        "ga_avg": 2.33,
+        "matches_considered": 3
+      },
+      "attack": 0.5333,
+      "defense": 1.8667,
+      "scorers": []
+    },
+    {
+      "id": "CSV51e27c8c",
+      "name": "Security Systems FC",
+      "elo": 1519.8,
+      "form": {
+        "ppg": 1.777,
+        "gf_avg": 1.108,
+        "ga_avg": 0.33,
+        "matches_considered": 3
+      },
+      "attack": 0.8,
+      "defense": 0.2667,
+      "scorers": [
+        {
+          "player": "O. Modise",
+          "goals": 2,
+          "share": 1.0
+        }
+      ]
+    },
+    {
+      "id": "CSV4f9896c3",
+      "name": "Township Rollers",
+      "elo": 1509.9,
+      "form": {
+        "ppg": 1.562,
+        "gf_avg": 1.67,
+        "ga_avg": 1.389,
+        "matches_considered": 3
+      },
+      "attack": 1.3333,
+      "defense": 1.0667,
+      "scorers": [
+        {
+          "player": "K. Mothibi",
+          "goals": 3,
+          "share": 1.0
+        }
+      ]
+    }
+  ]
+}

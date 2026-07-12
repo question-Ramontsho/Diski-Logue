@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Diski Logue — Live Fixture Predictions</title>
+<meta name="description" content="Pick a fixture, get a live, explainable football prediction — computed in your browser." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-lines" aria-hidden="true"></div>
+  <div class="masthead-inner">
+    <p class="eyebrow">Matchday Programme &middot; Issue No. 01</p>
+    <h1 class="title">DISKI<span class="title-accent">LOGUE</span></h1>
+    <p class="tagline">Pick a fixture. Get the call — and the case for it.</p>
+  </div>
+</header>
+
+<main>
+  <section class="picker-panel" aria-label="Fixture selector">
+    <div class="competition-slot">
+      <label for="competition-select">Competition</label>
+      <select id="competition-select"></select>
+    </div>
+    <div class="team-sheet">
+      <div class="team-slot">
+        <label for="home-select">Home</label>
+        <select id="home-select"></select>
+      </div>
+      <div class="vs-swap-group">
+        <div class="vs-badge" aria-hidden="true">VS</div>
+        <button id="swap-btn" type="button" class="swap-btn" title="Swap home and away" aria-label="Swap home and away teams">⇄</button>
+      </div>
+      <div class="team-slot">
+        <label for="away-select">Away</label>
+        <select id="away-select"></select>
+      </div>
+    </div>
+    <button id="predict-btn" class="predict-btn">Get Prediction</button>
+    <p id="status-line" class="status-line">Loading season data…</p>
+  </section>
+
+  <section id="result-panel" class="result-panel hidden" aria-label="Prediction result">
+
+    <div class="scoreline-block">
+      <p class="scoreline-label">Most likely scoreline</p>
+      <p id="scoreline-big" class="scoreline-big">–</p>
+      <p id="xg-line" class="xg-line"></p>
+    </div>
+
+    <div class="gauge-block">
+      <svg id="gauge-svg" viewBox="0 0 300 170" class="gauge-svg" aria-hidden="true"></svg>
+      <div class="gauge-legend">
+        <span class="legend-chip home"><i></i>Home <b id="pct-home">–</b></span>
+        <span class="legend-chip draw"><i></i>Draw <b id="pct-draw">–</b></span>
+        <span class="legend-chip away"><i></i>Away <b id="pct-away">–</b></span>
+      </div>
+      <p class="confidence-note">Confidence: <b id="confidence-val">–</b></p>
+    </div>
+
+    <div class="explanation-block">
+      <p class="section-label">The Case</p>
+      <p id="explanation-text" class="explanation-text"></p>
+      <ol id="factors-list" class="factors-list"></ol>
+    </div>
+
+    <div class="stats-grid">
+      <div class="stat-card">
+        <p class="section-label">Top Scorelines</p>
+        <table id="scorelines-table" class="mini-table"></table>
+      </div>
+      <div class="stat-card">
+        <p class="section-label">Markets</p>
+        <table id="markets-table" class="mini-table"></table>
+      </div>
+      <div class="stat-card">
+        <p class="section-label">Likely First Scorer</p>
+        <table id="first-scorer-table" class="mini-table"></table>
+      </div>
+      <div class="stat-card">
+        <p class="section-label">Anytime Scorers</p>
+        <table id="anytime-table" class="mini-table"></table>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>Diski Logue FIPS v1.0 — predictions computed live in your browser from pre-aggregated season data. Not betting advice.</p>
+</footer>
+
+<script src="predict-engine.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "competitions": [
+    {
+      "code": "BW_PREMIER",
+      "name": "Botswana Premier League",
+      "file": "data/BW_PREMIER.json"
+    },
+    {
+      "code": "SAMPLE",
+      "name": "Sample Demo League",
+      "file": "data/SAMPLE.json"
+    }
+  ]
+}
