@@ -1,7 +1,7 @@
 {
   "competition": "WC",
-  "league_avg_goals": 1.5784,
-  "generated_at_last_match": "2026-07-15T19:00:00Z",
+  "league_avg_goals": 1.6117,
+  "generated_at_last_match": "2026-07-18T21:00:00Z",
   "teams": [
     {
       "id": "778",
@@ -13,8 +13,8 @@
         "ga_avg": 2.233,
         "matches_considered": 4
       },
-      "attack": 0.7919,
-      "defense": 1.4255,
+      "attack": 0.7756,
+      "defense": 1.3961,
       "scorers": []
     },
     {
@@ -27,8 +27,8 @@
         "ga_avg": 1.114,
         "matches_considered": 7
       },
-      "attack": 1.7196,
-      "defense": 0.6335,
+      "attack": 1.6842,
+      "defense": 0.6205,
       "scorers": [
         {
           "player": "Lionel Messi",
@@ -47,8 +47,8 @@
         "ga_avg": 2.023,
         "matches_considered": 4
       },
-      "attack": 0.7919,
-      "defense": 1.1087,
+      "attack": 0.7756,
+      "defense": 1.0858,
       "scorers": []
     },
     {
@@ -61,8 +61,8 @@
         "ga_avg": 2.388,
         "matches_considered": 4
       },
-      "attack": 0.9503,
-      "defense": 1.4255,
+      "attack": 0.9307,
+      "defense": 1.3961,
       "scorers": []
     },
     {
@@ -75,8 +75,8 @@
         "ga_avg": 1.289,
         "matches_considered": 6
       },
-      "attack": 1.4783,
-      "defense": 0.7391,
+      "attack": 1.4478,
+      "defense": 0.7239,
       "scorers": []
     },
     {
@@ -89,8 +89,8 @@
         "ga_avg": 1.994,
         "matches_considered": 4
       },
-      "attack": 0.7919,
-      "defense": 1.2671,
+      "attack": 0.7756,
+      "defense": 1.241,
       "scorers": []
     },
     {
@@ -103,18 +103,13 @@
         "ga_avg": 0.909,
         "matches_considered": 5
       },
-      "attack": 1.2671,
-      "defense": 0.5068,
+      "attack": 1.241,
+      "defense": 0.4964,
       "scorers": [
         {
           "player": "Vinicius Junior",
           "goals": 4,
-          "share": 0.5714
-        },
-        {
-          "player": "Matheus Cunha",
-          "goals": 3,
-          "share": 0.4286
+          "share": 1.0
         }
       ]
     },
@@ -128,8 +123,8 @@
         "ga_avg": 1.339,
         "matches_considered": 5
       },
-      "attack": 1.1404,
-      "defense": 0.7602,
+      "attack": 1.1169,
+      "defense": 0.7446,
       "scorers": [
         {
           "player": "Jonathan David",
@@ -148,8 +143,8 @@
         "ga_avg": 1.395,
         "matches_considered": 4
       },
-      "attack": 0.6335,
-      "defense": 0.7919,
+      "attack": 0.6205,
+      "defense": 0.7756,
       "scorers": []
     },
     {
@@ -162,8 +157,8 @@
         "ga_avg": 1.219,
         "matches_considered": 5
       },
-      "attack": 1.0137,
-      "defense": 0.6335,
+      "attack": 0.9928,
+      "defense": 0.6205,
       "scorers": []
     },
     {
@@ -176,8 +171,8 @@
         "ga_avg": 1.314,
         "matches_considered": 4
       },
-      "attack": 0.7919,
-      "defense": 0.7919,
+      "attack": 0.7756,
+      "defense": 0.7756,
       "scorers": [
         {
           "player": "Yoane Wissa",
@@ -196,8 +191,8 @@
         "ga_avg": 1.665,
         "matches_considered": 4
       },
-      "attack": 0.9503,
-      "defense": 1.1087,
+      "attack": 0.9307,
+      "defense": 1.0858,
       "scorers": []
     },
     {
@@ -210,8 +205,8 @@
         "ga_avg": 2.743,
         "matches_considered": 3
       },
-      "attack": 0.2112,
-      "defense": 1.9006,
+      "attack": 0.2068,
+      "defense": 1.8614,
       "scorers": []
     },
     {
@@ -224,8 +219,8 @@
         "ga_avg": 2.058,
         "matches_considered": 3
       },
-      "attack": 0.4224,
-      "defense": 1.2671,
+      "attack": 0.4137,
+      "defense": 1.241,
       "scorers": []
     },
     {
@@ -238,8 +233,8 @@
         "ga_avg": 1.087,
         "matches_considered": 4
       },
-      "attack": 0.3168,
-      "defense": 0.6335,
+      "attack": 0.3102,
+      "defense": 0.6205,
       "scorers": []
     },
     {
@@ -252,57 +247,62 @@
         "ga_avg": 1.998,
         "matches_considered": 5
       },
-      "attack": 1.5205,
-      "defense": 1.1404,
+      "attack": 1.4892,
+      "defense": 1.1169,
       "scorers": []
     },
     {
       "id": "770",
       "name": "England",
-      "elo": 1555.5,
+      "elo": 1577.4,
       "form": {
-        "ppg": 2.142,
-        "gf_avg": 1.909,
-        "ga_avg": 1.25,
-        "matches_considered": 7
+        "ppg": 2.319,
+        "gf_avg": 2.753,
+        "ga_avg": 1.817,
+        "matches_considered": 8
       },
-      "attack": 1.2671,
-      "defense": 0.724,
+      "attack": 1.5512,
+      "defense": 0.9307,
       "scorers": [
+        {
+          "player": "Jude Bellingham",
+          "goals": 7,
+          "share": 0.5385
+        },
         {
           "player": "Harry Kane",
           "goals": 6,
-          "share": 0.5
-        },
-        {
-          "player": "Jude Bellingham",
-          "goals": 6,
-          "share": 0.5
+          "share": 0.4615
         }
       ]
     },
     {
       "id": "773",
       "name": "France",
-      "elo": 1573.0,
+      "elo": 1551.1,
       "form": {
-        "ppg": 2.338,
-        "gf_avg": 1.946,
-        "ga_avg": 0.64,
-        "matches_considered": 7
+        "ppg": 1.856,
+        "gf_avg": 2.37,
+        "ga_avg": 1.745,
+        "matches_considered": 8
       },
-      "attack": 1.4481,
-      "defense": 0.362,
+      "attack": 1.5512,
+      "defense": 0.7756,
       "scorers": [
         {
           "player": "Kylian Mbapp\u00e9",
-          "goals": 8,
-          "share": 0.6154
+          "goals": 10,
+          "share": 0.5263
         },
         {
           "player": "Ousmane Demb\u00e9l\u00e9",
-          "goals": 5,
-          "share": 0.3846
+          "goals": 6,
+          "share": 0.3158
+        },
+        {
+          "player": "Bradley Barcola",
+          "goals": 3,
+          "share": 0.1579
         }
       ]
     },
@@ -316,8 +316,8 @@
         "ga_avg": 2.522,
         "matches_considered": 4
       },
-      "attack": 2.2174,
-      "defense": 1.4255,
+      "attack": 2.1717,
+      "defense": 1.3961,
       "scorers": [
         {
           "player": "Deniz Undav",
@@ -341,8 +341,8 @@
         "ga_avg": 0.847,
         "matches_considered": 4
       },
-      "attack": 0.3168,
-      "defense": 0.4752,
+      "attack": 0.3102,
+      "defense": 0.4654,
       "scorers": []
     },
     {
@@ -355,8 +355,8 @@
         "ga_avg": 2.827,
         "matches_considered": 3
       },
-      "attack": 0.4224,
-      "defense": 1.6894,
+      "attack": 0.4137,
+      "defense": 1.6546,
       "scorers": []
     },
     {
@@ -369,8 +369,8 @@
         "ga_avg": 0.95,
         "matches_considered": 3
       },
-      "attack": 0.6335,
-      "defense": 0.6335,
+      "attack": 0.6205,
+      "defense": 0.6205,
       "scorers": []
     },
     {
@@ -383,8 +383,8 @@
         "ga_avg": 4.058,
         "matches_considered": 3
       },
-      "attack": 0.2112,
-      "defense": 2.5342,
+      "attack": 0.2068,
+      "defense": 2.4819,
       "scorers": []
     },
     {
@@ -397,8 +397,8 @@
         "ga_avg": 1.081,
         "matches_considered": 4
       },
-      "attack": 0.7919,
-      "defense": 0.6335,
+      "attack": 0.7756,
+      "defense": 0.6205,
       "scorers": []
     },
     {
@@ -411,8 +411,8 @@
         "ga_avg": 1.28,
         "matches_considered": 4
       },
-      "attack": 1.2671,
-      "defense": 0.7919,
+      "attack": 1.241,
+      "defense": 0.7756,
       "scorers": []
     },
     {
@@ -425,8 +425,8 @@
         "ga_avg": 2.67,
         "matches_considered": 3
       },
-      "attack": 0.6335,
-      "defense": 1.6894,
+      "attack": 0.6205,
+      "defense": 1.6546,
       "scorers": []
     },
     {
@@ -439,8 +439,8 @@
         "ga_avg": 0.809,
         "matches_considered": 5
       },
-      "attack": 1.2671,
-      "defense": 0.3801,
+      "attack": 1.241,
+      "defense": 0.3723,
       "scorers": [
         {
           "player": "Juli\u00e1n Qui\u00f1ones",
@@ -464,8 +464,8 @@
         "ga_avg": 1.406,
         "matches_considered": 6
       },
-      "attack": 1.3727,
-      "defense": 0.8447,
+      "attack": 1.3444,
+      "defense": 0.8273,
       "scorers": [
         {
           "player": "Ismael Saibari",
@@ -484,8 +484,8 @@
         "ga_avg": 2.134,
         "matches_considered": 4
       },
-      "attack": 2.059,
-      "defense": 1.2671,
+      "attack": 2.0166,
+      "defense": 1.241,
       "scorers": []
     },
     {
@@ -498,8 +498,8 @@
         "ga_avg": 3.497,
         "matches_considered": 3
       },
-      "attack": 0.8447,
-      "defense": 2.1118,
+      "attack": 0.8273,
+      "defense": 2.0683,
       "scorers": [
         {
           "player": "Elijah Just",
@@ -518,8 +518,8 @@
         "ga_avg": 1.81,
         "matches_considered": 6
       },
-      "attack": 1.3727,
-      "defense": 1.1615,
+      "attack": 1.3444,
+      "defense": 1.1376,
       "scorers": [
         {
           "player": "Erling Haaland",
@@ -539,7 +539,7 @@
         "matches_considered": 3
       },
       "attack": 0.0,
-      "defense": 0.8447,
+      "defense": 0.8273,
       "scorers": []
     },
     {
@@ -552,8 +552,8 @@
         "ga_avg": 1.749,
         "matches_considered": 5
       },
-      "attack": 0.887,
-      "defense": 1.1404,
+      "attack": 0.8687,
+      "defense": 1.1169,
       "scorers": []
     },
     {
@@ -566,8 +566,8 @@
         "ga_avg": 0.64,
         "matches_considered": 5
       },
-      "attack": 1.0137,
-      "defense": 0.3801,
+      "attack": 0.9928,
+      "defense": 0.3723,
       "scorers": []
     },
     {
@@ -580,8 +580,8 @@
         "ga_avg": 3.43,
         "matches_considered": 3
       },
-      "attack": 0.4224,
-      "defense": 2.1118,
+      "attack": 0.4137,
+      "defense": 2.0683,
       "scorers": []
     },
     {
@@ -594,8 +594,8 @@
         "ga_avg": 1.603,
         "matches_considered": 3
       },
-      "attack": 0.2112,
-      "defense": 1.0559,
+      "attack": 0.2068,
+      "defense": 1.0341,
       "scorers": []
     },
     {
@@ -608,8 +608,8 @@
         "ga_avg": 1.497,
         "matches_considered": 3
       },
-      "attack": 0.2112,
-      "defense": 0.8447,
+      "attack": 0.2068,
+      "defense": 0.8273,
       "scorers": []
     },
     {
@@ -622,8 +622,8 @@
         "ga_avg": 2.2,
         "matches_considered": 4
       },
-      "attack": 1.5839,
-      "defense": 1.4255,
+      "attack": 1.5512,
+      "defense": 1.3961,
       "scorers": [
         {
           "player": "Isma\u00efla Sarr",
@@ -642,8 +642,8 @@
         "ga_avg": 0.926,
         "matches_considered": 4
       },
-      "attack": 0.3168,
-      "defense": 0.6335,
+      "attack": 0.3102,
+      "defense": 0.6205,
       "scorers": []
     },
     {
@@ -656,8 +656,8 @@
         "ga_avg": 1.0,
         "matches_considered": 3
       },
-      "attack": 0.4224,
-      "defense": 0.6335,
+      "attack": 0.4137,
+      "defense": 0.6205,
       "scorers": []
     },
     {
@@ -670,8 +670,8 @@
         "ga_avg": 0.188,
         "matches_considered": 7
       },
-      "attack": 1.1766,
-      "defense": 0.0905,
+      "attack": 1.1523,
+      "defense": 0.0886,
       "scorers": [
         {
           "player": "Mikel Oyarzabal",
@@ -690,8 +690,8 @@
         "ga_avg": 2.535,
         "matches_considered": 4
       },
-      "attack": 1.1087,
-      "defense": 1.5839,
+      "attack": 1.0858,
+      "defense": 1.5512,
       "scorers": []
     },
     {
@@ -704,8 +704,8 @@
         "ga_avg": 1.717,
         "matches_considered": 6
       },
-      "attack": 1.4783,
-      "defense": 0.9503,
+      "attack": 1.4478,
+      "defense": 0.9307,
       "scorers": [
         {
           "player": "Johan Manzambi",
@@ -724,8 +724,8 @@
         "ga_avg": 3.892,
         "matches_considered": 3
       },
-      "attack": 0.4224,
-      "defense": 2.5342,
+      "attack": 0.4137,
+      "defense": 2.4819,
       "scorers": []
     },
     {
@@ -738,8 +738,8 @@
         "ga_avg": 1.67,
         "matches_considered": 3
       },
-      "attack": 0.6335,
-      "defense": 1.0559,
+      "attack": 0.6205,
+      "defense": 1.0341,
       "scorers": []
     },
     {
@@ -752,8 +752,8 @@
         "ga_avg": 1.804,
         "matches_considered": 5
       },
-      "attack": 1.3938,
-      "defense": 1.0137,
+      "attack": 1.3651,
+      "defense": 0.9928,
       "scorers": [
         {
           "player": "Folarin Balogun",
@@ -772,8 +772,8 @@
         "ga_avg": 1.33,
         "matches_considered": 3
       },
-      "attack": 0.6335,
-      "defense": 0.8447,
+      "attack": 0.6205,
+      "defense": 0.8273,
       "scorers": []
     },
     {
@@ -786,8 +786,8 @@
         "ga_avg": 3.661,
         "matches_considered": 3
       },
-      "attack": 0.4224,
-      "defense": 2.323,
+      "attack": 0.4137,
+      "defense": 2.2751,
       "scorers": []
     }
   ]
