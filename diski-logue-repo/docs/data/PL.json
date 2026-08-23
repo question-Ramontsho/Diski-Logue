@@ -1,7 +1,7 @@
 {
   "competition": "PL",
-  "league_avg_goals": 1.5,
-  "generated_at_last_match": "2026-08-21T19:00:00Z",
+  "league_avg_goals": 1.1667,
+  "generated_at_last_match": "2026-08-22T16:30:00Z",
   "teams": [
     {
       "id": "1044",
@@ -27,7 +27,7 @@
         "ga_avg": 0.0,
         "matches_considered": 1
       },
-      "attack": 2.0,
+      "attack": 2.5714,
       "defense": 0.0,
       "scorers": [
         {
@@ -64,16 +64,32 @@
     {
       "id": "402",
       "name": "Brentford FC",
-      "elo": 1500.0,
+      "elo": 1517.4,
       "form": {
-        "ppg": 1.3,
-        "gf_avg": 1.2,
-        "ga_avg": 1.2,
-        "matches_considered": 0
+        "ppg": 3.0,
+        "gf_avg": 3.0,
+        "ga_avg": 0.0,
+        "matches_considered": 1
       },
-      "attack": 1.0,
-      "defense": 1.0,
-      "scorers": []
+      "attack": 2.5714,
+      "defense": 0.0,
+      "scorers": [
+        {
+          "player": "Keane Lewis-Potter",
+          "goals": 1,
+          "share": 0.3333
+        },
+        {
+          "player": "Michael Kayode",
+          "goals": 1,
+          "share": 0.3333
+        },
+        {
+          "player": "Vitaly Janelt",
+          "goals": 1,
+          "share": 0.3333
+        }
+      ]
     },
     {
       "id": "397",
@@ -114,36 +130,47 @@
         "matches_considered": 1
       },
       "attack": 0.0,
-      "defense": 2.0,
+      "defense": 2.5714,
       "scorers": []
     },
     {
       "id": "354",
       "name": "Crystal Palace FC",
-      "elo": 1500.0,
+      "elo": 1485.1,
       "form": {
-        "ppg": 1.3,
-        "gf_avg": 1.2,
-        "ga_avg": 1.2,
-        "matches_considered": 0
+        "ppg": 0.0,
+        "gf_avg": 0.0,
+        "ga_avg": 2.0,
+        "matches_considered": 1
       },
-      "attack": 1.0,
-      "defense": 1.0,
+      "attack": 0.0,
+      "defense": 1.7143,
       "scorers": []
     },
     {
       "id": "62",
       "name": "Everton FC",
-      "elo": 1500.0,
+      "elo": 1514.9,
       "form": {
-        "ppg": 1.3,
-        "gf_avg": 1.2,
-        "ga_avg": 1.2,
-        "matches_considered": 0
+        "ppg": 3.0,
+        "gf_avg": 2.0,
+        "ga_avg": 0.0,
+        "matches_considered": 1
       },
-      "attack": 1.0,
-      "defense": 1.0,
-      "scorers": []
+      "attack": 1.7143,
+      "defense": 0.0,
+      "scorers": [
+        {
+          "player": "Kiernan Dewsbury Hall",
+          "goals": 1,
+          "share": 0.5
+        },
+        {
+          "player": "Thierno Barry",
+          "goals": 1,
+          "share": 0.5
+        }
+      ]
     },
     {
       "id": "63",
@@ -162,44 +189,72 @@
     {
       "id": "322",
       "name": "Hull City AFC",
-      "elo": 1500.0,
+      "elo": 1514.9,
       "form": {
-        "ppg": 1.3,
-        "gf_avg": 1.2,
-        "ga_avg": 1.2,
-        "matches_considered": 0
+        "ppg": 3.0,
+        "gf_avg": 2.0,
+        "ga_avg": 0.0,
+        "matches_considered": 1
       },
-      "attack": 1.0,
-      "defense": 1.0,
-      "scorers": []
+      "attack": 1.7143,
+      "defense": 0.0,
+      "scorers": [
+        {
+          "player": "Nobel Mendy",
+          "goals": 1,
+          "share": 0.5
+        },
+        {
+          "player": "Semi Ajayi",
+          "goals": 1,
+          "share": 0.5
+        }
+      ]
     },
     {
       "id": "349",
       "name": "Ipswich Town FC",
-      "elo": 1500.0,
+      "elo": 1509.9,
       "form": {
-        "ppg": 1.3,
-        "gf_avg": 1.2,
-        "ga_avg": 1.2,
-        "matches_considered": 0
+        "ppg": 3.0,
+        "gf_avg": 2.0,
+        "ga_avg": 1.0,
+        "matches_considered": 1
       },
-      "attack": 1.0,
-      "defense": 1.0,
-      "scorers": []
+      "attack": 1.7143,
+      "defense": 0.8571,
+      "scorers": [
+        {
+          "player": "Emersonn",
+          "goals": 1,
+          "share": 0.5
+        },
+        {
+          "player": "Jack Clarke",
+          "goals": 1,
+          "share": 0.5
+        }
+      ]
     },
     {
       "id": "341",
       "name": "Leeds United FC",
-      "elo": 1500.0,
+      "elo": 1514.1,
       "form": {
-        "ppg": 1.3,
-        "gf_avg": 1.2,
-        "ga_avg": 1.2,
-        "matches_considered": 0
+        "ppg": 3.0,
+        "gf_avg": 1.0,
+        "ga_avg": 0.0,
+        "matches_considered": 1
       },
-      "attack": 1.0,
-      "defense": 1.0,
-      "scorers": []
+      "attack": 0.8571,
+      "defense": 0.0,
+      "scorers": [
+        {
+          "player": "Anton Stach",
+          "goals": 1,
+          "share": 1.0
+        }
+      ]
     },
     {
       "id": "64",
@@ -232,15 +287,15 @@
     {
       "id": "66",
       "name": "Manchester United FC",
-      "elo": 1500.0,
+      "elo": 1485.1,
       "form": {
-        "ppg": 1.3,
-        "gf_avg": 1.2,
-        "ga_avg": 1.2,
-        "matches_considered": 0
+        "ppg": 0.0,
+        "gf_avg": 0.0,
+        "ga_avg": 2.0,
+        "matches_considered": 1
       },
-      "attack": 1.0,
-      "defense": 1.0,
+      "attack": 0.0,
+      "defense": 1.7143,
       "scorers": []
     },
     {
@@ -260,43 +315,49 @@
     {
       "id": "351",
       "name": "Nottingham Forest FC",
-      "elo": 1500.0,
+      "elo": 1485.9,
       "form": {
-        "ppg": 1.3,
-        "gf_avg": 1.2,
-        "ga_avg": 1.2,
-        "matches_considered": 0
+        "ppg": 0.0,
+        "gf_avg": 0.0,
+        "ga_avg": 1.0,
+        "matches_considered": 1
       },
-      "attack": 1.0,
-      "defense": 1.0,
+      "attack": 0.0,
+      "defense": 0.8571,
       "scorers": []
     },
     {
       "id": "71",
       "name": "Sunderland AFC",
-      "elo": 1500.0,
+      "elo": 1490.1,
       "form": {
-        "ppg": 1.3,
-        "gf_avg": 1.2,
-        "ga_avg": 1.2,
-        "matches_considered": 0
+        "ppg": 0.0,
+        "gf_avg": 1.0,
+        "ga_avg": 2.0,
+        "matches_considered": 1
       },
-      "attack": 1.0,
-      "defense": 1.0,
-      "scorers": []
+      "attack": 0.8571,
+      "defense": 1.7143,
+      "scorers": [
+        {
+          "player": "Nilson Angulo",
+          "goals": 1,
+          "share": 1.0
+        }
+      ]
     },
     {
       "id": "73",
       "name": "Tottenham Hotspur FC",
-      "elo": 1500.0,
+      "elo": 1482.6,
       "form": {
-        "ppg": 1.3,
-        "gf_avg": 1.2,
-        "ga_avg": 1.2,
-        "matches_considered": 0
+        "ppg": 0.0,
+        "gf_avg": 0.0,
+        "ga_avg": 3.0,
+        "matches_considered": 1
       },
-      "attack": 1.0,
-      "defense": 1.0,
+      "attack": 0.0,
+      "defense": 2.5714,
       "scorers": []
     }
   ]
