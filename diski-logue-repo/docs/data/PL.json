@@ -1,7 +1,7 @@
 {
   "competition": "PL",
-  "league_avg_goals": 1.3889,
-  "generated_at_last_match": "2026-08-23T15:30:00Z",
+  "league_avg_goals": 1.5,
+  "generated_at_last_match": "2026-08-24T19:00:00Z",
   "teams": [
     {
       "id": "1044",
@@ -13,8 +13,8 @@
         "ga_avg": 2.0,
         "matches_considered": 1
       },
-      "attack": 0.72,
-      "defense": 1.44,
+      "attack": 0.6667,
+      "defense": 1.3333,
       "scorers": [
         {
           "player": "Marcus Tavernier",
@@ -33,7 +33,7 @@
         "ga_avg": 0.0,
         "matches_considered": 1
       },
-      "attack": 2.16,
+      "attack": 2.0,
       "defense": 0.0,
       "scorers": [
         {
@@ -64,7 +64,7 @@
         "matches_considered": 1
       },
       "attack": 0.0,
-      "defense": 2.88,
+      "defense": 2.6667,
       "scorers": []
     },
     {
@@ -77,7 +77,7 @@
         "ga_avg": 0.0,
         "matches_considered": 1
       },
-      "attack": 2.16,
+      "attack": 2.0,
       "defense": 0.0,
       "scorers": [
         {
@@ -107,7 +107,7 @@
         "ga_avg": 0.0,
         "matches_considered": 1
       },
-      "attack": 2.88,
+      "attack": 2.6667,
       "defense": 0.0,
       "scorers": [
         {
@@ -125,15 +125,15 @@
     {
       "id": "61",
       "name": "Chelsea FC",
-      "elo": 1500.0,
+      "elo": 1514.1,
       "form": {
-        "ppg": 1.3,
-        "gf_avg": 1.2,
-        "ga_avg": 1.2,
-        "matches_considered": 0
+        "ppg": 3.0,
+        "gf_avg": 3.0,
+        "ga_avg": 2.0,
+        "matches_considered": 1
       },
-      "attack": 1.0,
-      "defense": 1.0,
+      "attack": 2.0,
+      "defense": 1.3333,
       "scorers": []
     },
     {
@@ -147,7 +147,7 @@
         "matches_considered": 1
       },
       "attack": 0.0,
-      "defense": 2.16,
+      "defense": 2.0,
       "scorers": []
     },
     {
@@ -161,7 +161,7 @@
         "matches_considered": 1
       },
       "attack": 0.0,
-      "defense": 1.44,
+      "defense": 1.3333,
       "scorers": []
     },
     {
@@ -174,7 +174,7 @@
         "ga_avg": 0.0,
         "matches_considered": 1
       },
-      "attack": 1.44,
+      "attack": 1.3333,
       "defense": 0.0,
       "scorers": [
         {
@@ -192,15 +192,15 @@
     {
       "id": "63",
       "name": "Fulham FC",
-      "elo": 1500.0,
+      "elo": 1485.9,
       "form": {
-        "ppg": 1.3,
-        "gf_avg": 1.2,
-        "ga_avg": 1.2,
-        "matches_considered": 0
+        "ppg": 0.0,
+        "gf_avg": 2.0,
+        "ga_avg": 3.0,
+        "matches_considered": 1
       },
-      "attack": 1.0,
-      "defense": 1.0,
+      "attack": 1.3333,
+      "defense": 2.0,
       "scorers": []
     },
     {
@@ -213,7 +213,7 @@
         "ga_avg": 0.0,
         "matches_considered": 1
       },
-      "attack": 1.44,
+      "attack": 1.3333,
       "defense": 0.0,
       "scorers": [
         {
@@ -238,8 +238,8 @@
         "ga_avg": 1.0,
         "matches_considered": 1
       },
-      "attack": 1.44,
-      "defense": 0.72,
+      "attack": 1.3333,
+      "defense": 0.6667,
       "scorers": [
         {
           "player": "Emersonn",
@@ -263,7 +263,7 @@
         "ga_avg": 0.0,
         "matches_considered": 1
       },
-      "attack": 0.72,
+      "attack": 0.6667,
       "defense": 0.0,
       "scorers": [
         {
@@ -283,8 +283,8 @@
         "ga_avg": 2.0,
         "matches_considered": 1
       },
-      "attack": 1.44,
-      "defense": 1.44,
+      "attack": 1.3333,
+      "defense": 1.3333,
       "scorers": []
     },
     {
@@ -297,8 +297,8 @@
         "ga_avg": 1.0,
         "matches_considered": 1
       },
-      "attack": 1.44,
-      "defense": 0.72,
+      "attack": 1.3333,
+      "defense": 0.6667,
       "scorers": [
         {
           "player": "Jo\u0161ko Gvardiol",
@@ -323,7 +323,7 @@
         "matches_considered": 1
       },
       "attack": 0.0,
-      "defense": 1.44,
+      "defense": 1.3333,
       "scorers": []
     },
     {
@@ -336,8 +336,8 @@
         "ga_avg": 2.0,
         "matches_considered": 1
       },
-      "attack": 1.44,
-      "defense": 1.44,
+      "attack": 1.3333,
+      "defense": 1.3333,
       "scorers": [
         {
           "player": "Anthony Elanga",
@@ -357,7 +357,7 @@
         "matches_considered": 1
       },
       "attack": 0.0,
-      "defense": 0.72,
+      "defense": 0.6667,
       "scorers": []
     },
     {
@@ -370,8 +370,8 @@
         "ga_avg": 2.0,
         "matches_considered": 1
       },
-      "attack": 0.72,
-      "defense": 1.44,
+      "attack": 0.6667,
+      "defense": 1.3333,
       "scorers": [
         {
           "player": "Nilson Angulo",
@@ -391,7 +391,7 @@
         "matches_considered": 1
       },
       "attack": 0.0,
-      "defense": 2.16,
+      "defense": 2.0,
       "scorers": []
     }
   ]
