@@ -298,22 +298,17 @@
         {
           "player": "Erling Haaland",
           "goals": 2,
-          "share": 0.3333
+          "share": 0.4
         },
         {
           "player": "Rayan Cherki",
           "goals": 2,
-          "share": 0.3333
-        },
-        {
-          "player": "Jo\u0161ko Gvardiol",
-          "goals": 1,
-          "share": 0.1667
+          "share": 0.4
         },
         {
           "player": "Marc Gu\u00e9hi",
           "goals": 1,
-          "share": 0.1667
+          "share": 0.2
         }
       ]
     },
@@ -343,7 +338,13 @@
       },
       "attack": 1.2571,
       "defense": 1.2571,
-      "scorers": []
+      "scorers": [
+        {
+          "player": "Anthony Elanga",
+          "goals": 2,
+          "share": 1.0
+        }
+      ]
     },
     {
       "id": "351",
