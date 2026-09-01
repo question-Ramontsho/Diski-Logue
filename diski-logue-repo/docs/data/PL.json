@@ -1,7 +1,7 @@
 {
   "competition": "PL",
-  "league_avg_goals": 1.6053,
-  "generated_at_last_match": "2026-08-30T15:30:00Z",
+  "league_avg_goals": 1.55,
+  "generated_at_last_match": "2026-08-31T19:00:00Z",
   "teams": [
     {
       "id": "1044",
@@ -13,52 +13,52 @@
         "ga_avg": 1.459,
         "matches_considered": 2
       },
-      "attack": 0.623,
-      "defense": 0.9344,
+      "attack": 0.6452,
+      "defense": 0.9677,
       "scorers": []
     },
     {
       "id": "57",
       "name": "Arsenal FC",
-      "elo": 1517.4,
+      "elo": 1530.3,
       "form": {
         "ppg": 3.0,
-        "gf_avg": 3.0,
+        "gf_avg": 1.919,
         "ga_avg": 0.0,
-        "matches_considered": 1
+        "matches_considered": 2
       },
-      "attack": 1.8689,
+      "attack": 1.2903,
       "defense": 0.0,
       "scorers": [
         {
           "player": "Bukayo Saka",
-          "goals": 1,
-          "share": 0.3333
+          "goals": 2,
+          "share": 0.5
         },
         {
           "player": "Kai Havertz",
           "goals": 1,
-          "share": 0.3333
+          "share": 0.25
         },
         {
           "player": "Martin \u00d8degaard",
           "goals": 1,
-          "share": 0.3333
+          "share": 0.25
         }
       ]
     },
     {
       "id": "58",
       "name": "Aston Villa FC",
-      "elo": 1482.6,
+      "elo": 1469.7,
       "form": {
         "ppg": 0.0,
         "gf_avg": 0.0,
-        "ga_avg": 4.0,
-        "matches_considered": 1
+        "ga_avg": 2.378,
+        "matches_considered": 2
       },
       "attack": 0.0,
-      "defense": 2.4918,
+      "defense": 1.6129,
       "scorers": []
     },
     {
@@ -71,8 +71,8 @@
         "ga_avg": 0.541,
         "matches_considered": 2
       },
-      "attack": 1.2459,
-      "defense": 0.3115,
+      "attack": 1.2903,
+      "defense": 0.3226,
       "scorers": [
         {
           "player": "Keane Lewis-Potter",
@@ -96,8 +96,8 @@
         "ga_avg": 2.162,
         "matches_considered": 2
       },
-      "attack": 2.1803,
-      "defense": 1.2459,
+      "attack": 2.2581,
+      "defense": 1.2903,
       "scorers": [
         {
           "player": "Jack Hinshelwood",
@@ -116,8 +116,8 @@
         "ga_avg": 2.541,
         "matches_considered": 2
       },
-      "attack": 2.1803,
-      "defense": 1.5574,
+      "attack": 2.2581,
+      "defense": 1.6129,
       "scorers": [
         {
           "player": "Cole Palmer",
@@ -142,7 +142,7 @@
         "matches_considered": 2
       },
       "attack": 0.0,
-      "defense": 1.2459,
+      "defense": 1.2903,
       "scorers": []
     },
     {
@@ -155,8 +155,8 @@
         "ga_avg": 3.081,
         "matches_considered": 2
       },
-      "attack": 0.3115,
-      "defense": 1.8689,
+      "attack": 0.3226,
+      "defense": 1.9355,
       "scorers": []
     },
     {
@@ -169,8 +169,8 @@
         "ga_avg": 0.541,
         "matches_considered": 2
       },
-      "attack": 0.9344,
-      "defense": 0.3115,
+      "attack": 0.9677,
+      "defense": 0.3226,
       "scorers": [
         {
           "player": "Kiernan Dewsbury Hall",
@@ -194,8 +194,8 @@
         "ga_avg": 1.919,
         "matches_considered": 2
       },
-      "attack": 0.623,
-      "defense": 1.2459,
+      "attack": 0.6452,
+      "defense": 1.2903,
       "scorers": []
     },
     {
@@ -208,7 +208,7 @@
         "ga_avg": 0.0,
         "matches_considered": 2
       },
-      "attack": 0.9344,
+      "attack": 0.9677,
       "defense": 0.0,
       "scorers": [
         {
@@ -233,8 +233,8 @@
         "ga_avg": 3.162,
         "matches_considered": 2
       },
-      "attack": 1.2459,
-      "defense": 1.8689,
+      "attack": 1.2903,
+      "defense": 1.9355,
       "scorers": [
         {
           "player": "Emersonn",
@@ -258,8 +258,8 @@
         "ga_avg": 0.541,
         "matches_considered": 2
       },
-      "attack": 0.623,
-      "defense": 0.3115,
+      "attack": 0.6452,
+      "defense": 0.3226,
       "scorers": [
         {
           "player": "Anton Stach",
@@ -278,8 +278,8 @@
         "ga_avg": 2.0,
         "matches_considered": 2
       },
-      "attack": 1.2459,
-      "defense": 1.2459,
+      "attack": 1.2903,
+      "defense": 1.2903,
       "scorers": []
     },
     {
@@ -292,8 +292,8 @@
         "ga_avg": 1.0,
         "matches_considered": 2
       },
-      "attack": 1.8689,
-      "defense": 0.623,
+      "attack": 1.9355,
+      "defense": 0.6452,
       "scorers": [
         {
           "player": "Erling Haaland",
@@ -317,8 +317,8 @@
         "ga_avg": 2.0,
         "matches_considered": 2
       },
-      "attack": 1.5574,
-      "defense": 1.2459,
+      "attack": 1.6129,
+      "defense": 1.2903,
       "scorers": [
         {
           "player": "Bruno Fernandes",
@@ -337,8 +337,8 @@
         "ga_avg": 0.919,
         "matches_considered": 2
       },
-      "attack": 1.2459,
-      "defense": 0.623,
+      "attack": 1.2903,
+      "defense": 0.6452,
       "scorers": [
         {
           "player": "Anthony Elanga",
@@ -357,8 +357,8 @@
         "ga_avg": 1.541,
         "matches_considered": 2
       },
-      "attack": 0.623,
-      "defense": 0.9344,
+      "attack": 0.6452,
+      "defense": 0.9677,
       "scorers": []
     },
     {
@@ -371,8 +371,8 @@
         "ga_avg": 0.919,
         "matches_considered": 2
       },
-      "attack": 0.623,
-      "defense": 0.623,
+      "attack": 0.6452,
+      "defense": 0.6452,
       "scorers": [
         {
           "player": "Nilson Angulo",
@@ -392,7 +392,7 @@
         "matches_considered": 2
       },
       "attack": 0.0,
-      "defense": 1.5574,
+      "defense": 1.6129,
       "scorers": []
     }
   ]
