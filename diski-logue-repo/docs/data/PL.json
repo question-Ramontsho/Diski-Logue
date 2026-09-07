@@ -1,7 +1,7 @@
 {
   "competition": "PL",
-  "league_avg_goals": 1.3929,
-  "generated_at_last_match": "2026-09-05T16:30:00Z",
+  "league_avg_goals": 1.4167,
+  "generated_at_last_match": "2026-09-06T15:30:00Z",
   "teams": [
     {
       "id": "1044",
@@ -13,8 +13,8 @@
         "ga_avg": 1.67,
         "matches_considered": 3
       },
-      "attack": 0.9573,
-      "defense": 1.1966,
+      "attack": 0.9412,
+      "defense": 1.1765,
       "scorers": [
         {
           "player": "Marcus Tavernier",
@@ -26,30 +26,30 @@
     {
       "id": "57",
       "name": "Arsenal FC",
-      "elo": 1530.3,
+      "elo": 1540.0,
       "form": {
         "ppg": 3.0,
-        "gf_avg": 1.919,
-        "ga_avg": 0.0,
-        "matches_considered": 2
+        "gf_avg": 1.95,
+        "ga_avg": 0.389,
+        "matches_considered": 3
       },
-      "attack": 1.4359,
-      "defense": 0.0,
+      "attack": 1.4118,
+      "defense": 0.2353,
       "scorers": [
         {
           "player": "Bukayo Saka",
           "goals": 2,
-          "share": 0.5
+          "share": 0.3333
         },
         {
           "player": "Kai Havertz",
-          "goals": 1,
-          "share": 0.25
+          "goals": 2,
+          "share": 0.3333
         },
         {
           "player": "Martin \u00d8degaard",
-          "goals": 1,
-          "share": 0.25
+          "goals": 2,
+          "share": 0.3333
         }
       ]
     },
@@ -64,7 +64,7 @@
         "matches_considered": 3
       },
       "attack": 0.0,
-      "defense": 1.1966,
+      "defense": 1.1765,
       "scorers": []
     },
     {
@@ -77,8 +77,8 @@
         "ga_avg": 0.719,
         "matches_considered": 3
       },
-      "attack": 1.1966,
-      "defense": 0.4786,
+      "attack": 1.1765,
+      "defense": 0.4706,
       "scorers": [
         {
           "player": "Vitaly Janelt",
@@ -97,8 +97,8 @@
         "ga_avg": 1.71,
         "matches_considered": 3
       },
-      "attack": 1.9145,
-      "defense": 1.1966,
+      "attack": 1.8824,
+      "defense": 1.1765,
       "scorers": [
         {
           "player": "Jack Hinshelwood",
@@ -110,25 +110,30 @@
     {
       "id": "61",
       "name": "Chelsea FC",
-      "elo": 1524.1,
+      "elo": 1514.4,
       "form": {
-        "ppg": 3.0,
-        "gf_avg": 3.541,
-        "ga_avg": 2.541,
-        "matches_considered": 2
+        "ppg": 1.834,
+        "gf_avg": 2.553,
+        "ga_avg": 2.33,
+        "matches_considered": 3
       },
-      "attack": 2.5128,
-      "defense": 1.7949,
+      "attack": 1.8824,
+      "defense": 1.6471,
       "scorers": [
         {
           "player": "Cole Palmer",
           "goals": 2,
-          "share": 0.5
+          "share": 0.3333
         },
         {
           "player": "Jo\u00e3o Pedro",
           "goals": 2,
-          "share": 0.5
+          "share": 0.3333
+        },
+        {
+          "player": "Morgan Rogers",
+          "goals": 2,
+          "share": 0.3333
         }
       ]
     },
@@ -143,7 +148,7 @@
         "matches_considered": 3
       },
       "attack": 0.0,
-      "defense": 1.1966,
+      "defense": 1.1765,
       "scorers": []
     },
     {
@@ -156,8 +161,8 @@
         "ga_avg": 2.661,
         "matches_considered": 3
       },
-      "attack": 0.9573,
-      "defense": 1.9145,
+      "attack": 0.9412,
+      "defense": 1.8824,
       "scorers": [
         {
           "player": "Tyrick Mitchell",
@@ -169,15 +174,15 @@
     {
       "id": "62",
       "name": "Everton FC",
-      "elo": 1516.1,
+      "elo": 1513.7,
       "form": {
-        "ppg": 1.919,
-        "gf_avg": 1.459,
-        "ga_avg": 0.541,
-        "matches_considered": 2
+        "ppg": 1.562,
+        "gf_avg": 1.67,
+        "ga_avg": 1.108,
+        "matches_considered": 3
       },
-      "attack": 1.0769,
-      "defense": 0.359,
+      "attack": 1.1765,
+      "defense": 0.7059,
       "scorers": []
     },
     {
@@ -190,8 +195,8 @@
         "ga_avg": 2.339,
         "matches_considered": 3
       },
-      "attack": 0.9573,
-      "defense": 1.6752,
+      "attack": 0.9412,
+      "defense": 1.6471,
       "scorers": [
         {
           "player": "Joshua King",
@@ -210,7 +215,7 @@
         "ga_avg": 0.0,
         "matches_considered": 3
       },
-      "attack": 0.7179,
+      "attack": 0.7059,
       "defense": 0.0,
       "scorers": [
         {
@@ -235,18 +240,13 @@
         "ga_avg": 2.71,
         "matches_considered": 3
       },
-      "attack": 0.9573,
-      "defense": 1.9145,
+      "attack": 0.9412,
+      "defense": 1.8824,
       "scorers": [
         {
           "player": "Emersonn",
           "goals": 1,
-          "share": 0.5
-        },
-        {
-          "player": "Jack Clarke",
-          "goals": 1,
-          "share": 0.5
+          "share": 1.0
         }
       ]
     },
@@ -260,8 +260,8 @@
         "ga_avg": 0.719,
         "matches_considered": 3
       },
-      "attack": 0.7179,
-      "defense": 0.4786,
+      "attack": 0.7059,
+      "defense": 0.4706,
       "scorers": []
     },
     {
@@ -274,8 +274,8 @@
         "ga_avg": 1.223,
         "matches_considered": 3
       },
-      "attack": 1.4359,
-      "defense": 0.9573,
+      "attack": 1.4118,
+      "defense": 0.9412,
       "scorers": [
         {
           "player": "Alexander Isak",
@@ -294,8 +294,8 @@
         "ga_avg": 0.611,
         "matches_considered": 3
       },
-      "attack": 1.6752,
-      "defense": 0.4786,
+      "attack": 1.6471,
+      "defense": 0.4706,
       "scorers": [
         {
           "player": "Erling Haaland",
@@ -312,20 +312,25 @@
     {
       "id": "66",
       "name": "Manchester United FC",
-      "elo": 1504.0,
+      "elo": 1506.4,
       "form": {
-        "ppg": 1.622,
-        "gf_avg": 2.703,
+        "ppg": 1.38,
+        "gf_avg": 2.43,
         "ga_avg": 2.0,
-        "matches_considered": 2
+        "matches_considered": 3
       },
-      "attack": 1.7949,
-      "defense": 1.4359,
+      "attack": 1.6471,
+      "defense": 1.4118,
       "scorers": [
         {
           "player": "Bruno Fernandes",
           "goals": 3,
-          "share": 1.0
+          "share": 0.6
+        },
+        {
+          "player": "Bryan Mbeumo",
+          "goals": 2,
+          "share": 0.4
         }
       ]
     },
@@ -339,8 +344,8 @@
         "ga_avg": 1.339,
         "matches_considered": 3
       },
-      "attack": 1.4359,
-      "defense": 0.9573,
+      "attack": 1.4118,
+      "defense": 0.9412,
       "scorers": [
         {
           "player": "Anthony Elanga",
@@ -359,8 +364,8 @@
         "ga_avg": 0.942,
         "matches_considered": 3
       },
-      "attack": 0.4786,
-      "defense": 0.7179,
+      "attack": 0.4706,
+      "defense": 0.7059,
       "scorers": []
     },
     {
@@ -373,15 +378,9 @@
         "ga_avg": 0.95,
         "matches_considered": 3
       },
-      "attack": 0.7179,
-      "defense": 0.7179,
-      "scorers": [
-        {
-          "player": "Nilson Angulo",
-          "goals": 1,
-          "share": 1.0
-        }
-      ]
+      "attack": 0.7059,
+      "defense": 0.7059,
+      "scorers": []
     },
     {
       "id": "73",
@@ -394,7 +393,7 @@
         "matches_considered": 3
       },
       "attack": 0.0,
-      "defense": 1.1966,
+      "defense": 1.1765,
       "scorers": []
     }
   ]
