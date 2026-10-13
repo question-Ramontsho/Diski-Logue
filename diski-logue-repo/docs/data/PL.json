@@ -1,7 +1,7 @@
 {
   "competition": "PL",
-  "league_avg_goals": 1.4576,
-  "generated_at_last_match": "2026-10-11T15:30:00Z",
+  "league_avg_goals": 1.475,
+  "generated_at_last_match": "2026-10-12T19:00:00Z",
   "teams": [
     {
       "id": "1044",
@@ -13,8 +13,8 @@
         "ga_avg": 2.392,
         "matches_considered": 6
       },
-      "attack": 0.8004,
-      "defense": 1.4864,
+      "attack": 0.791,
+      "defense": 1.4689,
       "scorers": [
         {
           "player": "Marcus Tavernier",
@@ -33,8 +33,8 @@
         "ga_avg": 1.003,
         "matches_considered": 6
       },
-      "attack": 1.1434,
-      "defense": 0.5717,
+      "attack": 1.1299,
+      "defense": 0.565,
       "scorers": [
         {
           "player": "Bukayo Saka",
@@ -63,8 +63,8 @@
         "ga_avg": 1.792,
         "matches_considered": 6
       },
-      "attack": 0.686,
-      "defense": 1.2578,
+      "attack": 0.678,
+      "defense": 1.2429,
       "scorers": []
     },
     {
@@ -77,8 +77,8 @@
         "ga_avg": 1.103,
         "matches_considered": 6
       },
-      "attack": 1.3721,
-      "defense": 0.686,
+      "attack": 1.3559,
+      "defense": 0.678,
       "scorers": [
         {
           "player": "Kevin Schade",
@@ -102,8 +102,8 @@
         "ga_avg": 0.651,
         "matches_considered": 6
       },
-      "attack": 2.0581,
-      "defense": 0.5717,
+      "attack": 2.0339,
+      "defense": 0.565,
       "scorers": [
         {
           "player": "Pascal Gro\u00df",
@@ -127,8 +127,8 @@
         "ga_avg": 2.09,
         "matches_considered": 6
       },
-      "attack": 1.7151,
-      "defense": 1.4864,
+      "attack": 1.6949,
+      "defense": 1.4689,
       "scorers": [
         {
           "player": "Jo\u00e3o Pedro",
@@ -145,15 +145,15 @@
     {
       "id": "1076",
       "name": "Coventry City FC",
-      "elo": 1455.7,
+      "elo": 1476.3,
       "form": {
-        "ppg": 0.809,
-        "gf_avg": 0.27,
-        "ga_avg": 1.929,
-        "matches_considered": 5
+        "ppg": 1.337,
+        "gf_avg": 1.168,
+        "ga_avg": 1.705,
+        "matches_considered": 6
       },
-      "attack": 0.1372,
-      "defense": 1.3721,
+      "attack": 0.565,
+      "defense": 1.2429,
       "scorers": []
     },
     {
@@ -166,8 +166,8 @@
         "ga_avg": 1.775,
         "matches_considered": 6
       },
-      "attack": 1.0291,
-      "defense": 1.3721,
+      "attack": 1.0169,
+      "defense": 1.3559,
       "scorers": []
     },
     {
@@ -180,8 +180,8 @@
         "ga_avg": 0.903,
         "matches_considered": 6
       },
-      "attack": 0.9147,
-      "defense": 0.5717,
+      "attack": 0.904,
+      "defense": 0.565,
       "scorers": [
         {
           "player": "Thierno Barry",
@@ -205,8 +205,8 @@
         "ga_avg": 1.576,
         "matches_considered": 6
       },
-      "attack": 0.686,
-      "defense": 1.1434,
+      "attack": 0.678,
+      "defense": 1.1299,
       "scorers": []
     },
     {
@@ -219,8 +219,8 @@
         "ga_avg": 1.239,
         "matches_considered": 6
       },
-      "attack": 0.9147,
-      "defense": 0.686,
+      "attack": 0.904,
+      "defense": 0.678,
       "scorers": [
         {
           "player": "Mohamed Belloumi",
@@ -239,8 +239,8 @@
         "ga_avg": 1.825,
         "matches_considered": 6
       },
-      "attack": 1.0291,
-      "defense": 1.3721,
+      "attack": 1.0169,
+      "defense": 1.3559,
       "scorers": [
         {
           "player": "Emersonn",
@@ -259,8 +259,8 @@
         "ga_avg": 0.929,
         "matches_considered": 6
       },
-      "attack": 0.9147,
-      "defense": 0.5717,
+      "attack": 0.904,
+      "defense": 0.565,
       "scorers": []
     },
     {
@@ -273,8 +273,8 @@
         "ga_avg": 1.188,
         "matches_considered": 6
       },
-      "attack": 0.8004,
-      "defense": 0.8004,
+      "attack": 0.791,
+      "defense": 0.791,
       "scorers": [
         {
           "player": "Alexander Isak",
@@ -293,8 +293,8 @@
         "ga_avg": 0.847,
         "matches_considered": 6
       },
-      "attack": 1.8295,
-      "defense": 0.5717,
+      "attack": 1.8079,
+      "defense": 0.565,
       "scorers": [
         {
           "player": "Erling Haaland",
@@ -318,8 +318,8 @@
         "ga_avg": 1.38,
         "matches_considered": 6
       },
-      "attack": 1.0291,
-      "defense": 1.0291,
+      "attack": 1.0169,
+      "defense": 1.0169,
       "scorers": [
         {
           "player": "Bruno Fernandes",
@@ -336,15 +336,15 @@
     {
       "id": "67",
       "name": "Newcastle United FC",
-      "elo": 1508.6,
+      "elo": 1488.1,
       "form": {
-        "ppg": 1.641,
-        "gf_avg": 1.771,
-        "ga_avg": 1.858,
-        "matches_considered": 5
+        "ppg": 1.246,
+        "gf_avg": 1.585,
+        "ga_avg": 2.374,
+        "matches_considered": 6
       },
-      "attack": 1.2349,
-      "defense": 1.2349,
+      "attack": 1.1299,
+      "defense": 1.4689,
       "scorers": []
     },
     {
@@ -357,8 +357,8 @@
         "ga_avg": 1.459,
         "matches_considered": 6
       },
-      "attack": 0.5717,
-      "defense": 0.9147,
+      "attack": 0.565,
+      "defense": 0.904,
       "scorers": []
     },
     {
@@ -371,8 +371,8 @@
         "ga_avg": 2.215,
         "matches_considered": 6
       },
-      "attack": 0.686,
-      "defense": 1.3721,
+      "attack": 0.678,
+      "defense": 1.3559,
       "scorers": [
         {
           "player": "Brian Brobbey",
@@ -391,8 +391,8 @@
         "ga_avg": 1.427,
         "matches_considered": 6
       },
-      "attack": 0.343,
-      "defense": 1.0291,
+      "attack": 0.339,
+      "defense": 1.0169,
       "scorers": []
     }
   ]
