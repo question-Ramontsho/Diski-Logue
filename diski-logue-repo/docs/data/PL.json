@@ -1,24 +1,24 @@
 {
   "competition": "PL",
-  "league_avg_goals": 1.4538,
-  "generated_at_last_match": "2026-10-17T16:30:00Z",
+  "league_avg_goals": 1.442,
+  "generated_at_last_match": "2026-10-18T15:30:00Z",
   "teams": [
     {
       "id": "1044",
       "name": "AFC Bournemouth",
-      "elo": 1461.1,
+      "elo": 1475.7,
       "form": {
-        "ppg": 0.448,
-        "gf_avg": 1.117,
-        "ga_avg": 2.392,
-        "matches_considered": 6
+        "ppg": 1.011,
+        "gf_avg": 1.312,
+        "ga_avg": 1.864,
+        "matches_considered": 7
       },
-      "attack": 0.8025,
-      "defense": 1.4903,
+      "attack": 0.8916,
+      "defense": 1.2879,
       "scorers": [
         {
           "player": "Marcus Tavernier",
-          "goals": 3,
+          "goals": 4,
           "share": 1.0
         }
       ]
@@ -26,15 +26,15 @@
     {
       "id": "57",
       "name": "Arsenal FC",
-      "elo": 1549.4,
+      "elo": 1560.7,
       "form": {
-        "ppg": 2.386,
-        "gf_avg": 1.572,
-        "ga_avg": 1.003,
-        "matches_considered": 6
+        "ppg": 2.521,
+        "gf_avg": 1.446,
+        "ga_avg": 0.781,
+        "matches_considered": 7
       },
-      "attack": 1.1464,
-      "defense": 0.5732,
+      "attack": 1.0897,
+      "defense": 0.4953,
       "scorers": [
         {
           "player": "Bukayo Saka",
@@ -63,8 +63,8 @@
         "ga_avg": 1.397,
         "matches_considered": 7
       },
-      "attack": 0.6878,
-      "defense": 1.0809,
+      "attack": 0.6935,
+      "defense": 1.0897,
       "scorers": []
     },
     {
@@ -77,38 +77,43 @@
         "ga_avg": 1.301,
         "matches_considered": 7
       },
-      "attack": 1.2774,
-      "defense": 0.7861,
+      "attack": 1.2879,
+      "defense": 0.7925,
       "scorers": [
         {
           "player": "Kevin Schade",
           "goals": 3,
-          "share": 0.6
-        },
-        {
-          "player": "Keane Lewis-Potter",
-          "goals": 2,
-          "share": 0.4
+          "share": 1.0
         }
       ]
     },
     {
       "id": "397",
       "name": "Brighton & Hove Albion FC",
-      "elo": 1564.0,
+      "elo": 1576.8,
       "form": {
-        "ppg": 2.327,
-        "gf_avg": 2.918,
-        "ga_avg": 0.651,
-        "matches_considered": 6
+        "ppg": 2.476,
+        "gf_avg": 3.378,
+        "ga_avg": 0.507,
+        "matches_considered": 7
       },
-      "attack": 2.0635,
-      "defense": 0.5732,
+      "attack": 2.2785,
+      "defense": 0.4953,
       "scorers": [
+        {
+          "player": "Charalampos Kostoulas",
+          "goals": 3,
+          "share": 0.3333
+        },
+        {
+          "player": "Jack Hinshelwood",
+          "goals": 3,
+          "share": 0.3333
+        },
         {
           "player": "Pascal Gro\u00df",
           "goals": 3,
-          "share": 1.0
+          "share": 0.3333
         }
       ]
     },
@@ -122,8 +127,8 @@
         "ga_avg": 1.628,
         "matches_considered": 7
       },
-      "attack": 1.6704,
-      "defense": 1.2774,
+      "attack": 1.6841,
+      "defense": 1.2879,
       "scorers": [
         {
           "player": "Jo\u00e3o Pedro",
@@ -152,22 +157,22 @@
         "ga_avg": 1.705,
         "matches_considered": 6
       },
-      "attack": 0.5732,
-      "defense": 1.261,
+      "attack": 0.5779,
+      "defense": 1.2714,
       "scorers": []
     },
     {
       "id": "354",
       "name": "Crystal Palace FC",
-      "elo": 1482.3,
+      "elo": 1469.4,
       "form": {
-        "ppg": 1.371,
-        "gf_avg": 1.64,
-        "ga_avg": 1.775,
-        "matches_considered": 6
+        "ppg": 1.068,
+        "gf_avg": 1.278,
+        "ga_avg": 2.487,
+        "matches_considered": 7
       },
-      "attack": 1.0317,
-      "defense": 1.3757,
+      "attack": 0.8916,
+      "defense": 1.6841,
       "scorers": []
     },
     {
@@ -180,18 +185,13 @@
         "ga_avg": 1.145,
         "matches_considered": 7
       },
-      "attack": 0.7861,
-      "defense": 0.6878,
+      "attack": 0.7925,
+      "defense": 0.6935,
       "scorers": [
         {
           "player": "Thierno Barry",
           "goals": 3,
-          "share": 0.6
-        },
-        {
-          "player": "Kiernan Dewsbury Hall",
-          "goals": 2,
-          "share": 0.4
+          "share": 1.0
         }
       ]
     },
@@ -205,8 +205,8 @@
         "ga_avg": 1.228,
         "matches_considered": 7
       },
-      "attack": 0.6878,
-      "defense": 0.9826,
+      "attack": 0.6935,
+      "defense": 0.9907,
       "scorers": []
     },
     {
@@ -219,8 +219,8 @@
         "ga_avg": 1.186,
         "matches_considered": 7
       },
-      "attack": 0.7861,
-      "defense": 0.6878,
+      "attack": 0.7925,
+      "defense": 0.6935,
       "scorers": [
         {
           "player": "Mohamed Belloumi",
@@ -239,29 +239,29 @@
         "ga_avg": 2.084,
         "matches_considered": 7
       },
-      "attack": 1.0809,
-      "defense": 1.4739,
-      "scorers": [
-        {
-          "player": "Emersonn",
-          "goals": 2,
-          "share": 1.0
-        }
-      ]
+      "attack": 1.0897,
+      "defense": 1.486,
+      "scorers": []
     },
     {
       "id": "341",
       "name": "Leeds United FC",
-      "elo": 1517.7,
+      "elo": 1514.8,
       "form": {
-        "ppg": 1.321,
-        "gf_avg": 1.317,
-        "ga_avg": 0.929,
-        "matches_considered": 6
+        "ppg": 1.25,
+        "gf_avg": 1.247,
+        "ga_avg": 0.945,
+        "matches_considered": 7
       },
-      "attack": 0.9171,
-      "defense": 0.5732,
-      "scorers": []
+      "attack": 0.8916,
+      "defense": 0.5944,
+      "scorers": [
+        {
+          "player": "Dominic Calvert-Lewin",
+          "goals": 3,
+          "share": 1.0
+        }
+      ]
     },
     {
       "id": "64",
@@ -273,8 +273,8 @@
         "ga_avg": 1.146,
         "matches_considered": 7
       },
-      "attack": 0.8844,
-      "defense": 0.7861,
+      "attack": 0.8916,
+      "defense": 0.7925,
       "scorers": [
         {
           "player": "Alexander Isak",
@@ -293,8 +293,8 @@
         "ga_avg": 1.101,
         "matches_considered": 7
       },
-      "attack": 1.867,
-      "defense": 0.6878,
+      "attack": 1.8823,
+      "defense": 0.6935,
       "scorers": [
         {
           "player": "Erling Haaland",
@@ -311,25 +311,25 @@
     {
       "id": "66",
       "name": "Manchester United FC",
-      "elo": 1491.2,
+      "elo": 1494.1,
       "form": {
-        "ppg": 0.971,
-        "gf_avg": 1.37,
-        "ga_avg": 1.38,
-        "matches_considered": 6
+        "ppg": 0.977,
+        "gf_avg": 1.288,
+        "ga_avg": 1.296,
+        "matches_considered": 7
       },
-      "attack": 1.0317,
-      "defense": 1.0317,
+      "attack": 0.9907,
+      "defense": 0.9907,
       "scorers": [
+        {
+          "player": "Bryan Mbeumo",
+          "goals": 4,
+          "share": 0.5714
+        },
         {
           "player": "Bruno Fernandes",
           "goals": 3,
-          "share": 0.5
-        },
-        {
-          "player": "Bryan Mbeumo",
-          "goals": 3,
-          "share": 0.5
+          "share": 0.4286
         }
       ]
     },
@@ -343,36 +343,36 @@
         "ga_avg": 2.07,
         "matches_considered": 7
       },
-      "attack": 0.9826,
-      "defense": 1.3757,
+      "attack": 0.9907,
+      "defense": 1.3869,
       "scorers": []
     },
     {
       "id": "351",
       "name": "Nottingham Forest FC",
-      "elo": 1467.5,
+      "elo": 1456.3,
       "form": {
-        "ppg": 0.796,
-        "gf_avg": 0.84,
-        "ga_avg": 1.459,
-        "matches_considered": 6
+        "ppg": 0.62,
+        "gf_avg": 0.655,
+        "ga_avg": 1.358,
+        "matches_considered": 7
       },
-      "attack": 0.5732,
-      "defense": 0.9171,
+      "attack": 0.4953,
+      "defense": 0.8916,
       "scorers": []
     },
     {
       "id": "71",
       "name": "Sunderland AFC",
-      "elo": 1454.6,
+      "elo": 1440.0,
       "form": {
-        "ppg": 0.525,
-        "gf_avg": 0.995,
-        "ga_avg": 2.215,
-        "matches_considered": 6
+        "ppg": 0.409,
+        "gf_avg": 0.775,
+        "ga_avg": 2.167,
+        "matches_considered": 7
       },
-      "attack": 0.6878,
-      "defense": 1.3757,
+      "attack": 0.5944,
+      "defense": 1.3869,
       "scorers": [
         {
           "player": "Brian Brobbey",
@@ -391,8 +391,8 @@
         "ga_avg": 1.427,
         "matches_considered": 6
       },
-      "attack": 0.3439,
-      "defense": 1.0317,
+      "attack": 0.3467,
+      "defense": 1.0402,
       "scorers": []
     }
   ]
