@@ -1,7 +1,7 @@
 {
   "competition": "PL",
-  "league_avg_goals": 1.3693,
-  "generated_at_last_match": "2026-10-31T20:00:00Z",
+  "league_avg_goals": 1.3596,
+  "generated_at_last_match": "2026-11-01T16:30:00Z",
   "teams": [
     {
       "id": "1044",
@@ -13,8 +13,8 @@
         "ga_avg": 1.191,
         "matches_considered": 9
       },
-      "attack": 1.136,
-      "defense": 1.0549,
+      "attack": 1.1442,
+      "defense": 1.0624,
       "scorers": [
         {
           "player": "Marcus Tavernier",
@@ -31,20 +31,25 @@
     {
       "id": "57",
       "name": "Arsenal FC",
-      "elo": 1572.8,
+      "elo": 1585.7,
       "form": {
-        "ppg": 2.62,
-        "gf_avg": 1.56,
-        "ga_avg": 0.62,
-        "matches_considered": 8
+        "ppg": 2.694,
+        "gf_avg": 1.451,
+        "ga_avg": 0.499,
+        "matches_considered": 9
       },
-      "attack": 1.1867,
-      "defense": 0.4564,
+      "attack": 1.1442,
+      "defense": 0.4086,
       "scorers": [
         {
           "player": "Bukayo Saka",
           "goals": 3,
-          "share": 1.0
+          "share": 0.5
+        },
+        {
+          "player": "Kai Havertz",
+          "goals": 3,
+          "share": 0.5
         }
       ]
     },
@@ -58,8 +63,8 @@
         "ga_avg": 1.253,
         "matches_considered": 9
       },
-      "attack": 0.8114,
-      "defense": 1.0549,
+      "attack": 0.8173,
+      "defense": 1.0624,
       "scorers": [
         {
           "player": "Nicolas Jackson",
@@ -78,8 +83,8 @@
         "ga_avg": 0.997,
         "matches_considered": 9
       },
-      "attack": 1.2983,
-      "defense": 0.7303,
+      "attack": 1.3076,
+      "defense": 0.7355,
       "scorers": [
         {
           "player": "Kevin Schade",
@@ -98,23 +103,18 @@
         "ga_avg": 0.656,
         "matches_considered": 9
       },
-      "attack": 1.9474,
-      "defense": 0.568,
+      "attack": 1.9614,
+      "defense": 0.5721,
       "scorers": [
-        {
-          "player": "Charalampos Kostoulas",
-          "goals": 3,
-          "share": 0.3333
-        },
         {
           "player": "Jack Hinshelwood",
           "goals": 3,
-          "share": 0.3333
+          "share": 0.5
         },
         {
           "player": "Pascal Gro\u00df",
           "goals": 3,
-          "share": 0.3333
+          "share": 0.5
         }
       ]
     },
@@ -128,8 +128,8 @@
         "ga_avg": 1.372,
         "matches_considered": 9
       },
-      "attack": 1.5417,
-      "defense": 1.2172,
+      "attack": 1.5528,
+      "defense": 1.2259,
       "scorers": [
         {
           "player": "Jo\u00e3o Pedro",
@@ -163,8 +163,8 @@
         "ga_avg": 1.633,
         "matches_considered": 9
       },
-      "attack": 0.7303,
-      "defense": 1.2983,
+      "attack": 0.7355,
+      "defense": 1.3076,
       "scorers": []
     },
     {
@@ -177,8 +177,8 @@
         "ga_avg": 2.311,
         "matches_considered": 9
       },
-      "attack": 0.7303,
-      "defense": 1.704,
+      "attack": 0.7355,
+      "defense": 1.7163,
       "scorers": []
     },
     {
@@ -191,8 +191,8 @@
         "ga_avg": 1.322,
         "matches_considered": 8
       },
-      "attack": 0.7303,
-      "defense": 0.8216,
+      "attack": 0.7355,
+      "defense": 0.8275,
       "scorers": [
         {
           "player": "Thierno Barry",
@@ -211,8 +211,8 @@
         "ga_avg": 0.98,
         "matches_considered": 9
       },
-      "attack": 0.7303,
-      "defense": 0.8926,
+      "attack": 0.7355,
+      "defense": 0.899,
       "scorers": []
     },
     {
@@ -225,8 +225,8 @@
         "ga_avg": 1.314,
         "matches_considered": 9
       },
-      "attack": 0.8926,
-      "defense": 0.8114,
+      "attack": 0.899,
+      "defense": 0.8173,
       "scorers": [
         {
           "player": "Mohamed Belloumi",
@@ -245,8 +245,8 @@
         "ga_avg": 1.888,
         "matches_considered": 9
       },
-      "attack": 1.136,
-      "defense": 1.4606,
+      "attack": 1.1442,
+      "defense": 1.4711,
       "scorers": []
     },
     {
@@ -259,8 +259,8 @@
         "ga_avg": 0.994,
         "matches_considered": 9
       },
-      "attack": 0.7303,
-      "defense": 0.6491,
+      "attack": 0.7355,
+      "defense": 0.6538,
       "scorers": [
         {
           "player": "Dominic Calvert-Lewin",
@@ -272,15 +272,15 @@
     {
       "id": "64",
       "name": "Liverpool FC",
-      "elo": 1539.6,
+      "elo": 1526.7,
       "form": {
-        "ppg": 2.05,
-        "gf_avg": 1.36,
-        "ga_avg": 0.91,
-        "matches_considered": 8
+        "ppg": 1.65,
+        "gf_avg": 1.095,
+        "ga_avg": 0.927,
+        "matches_considered": 9
       },
-      "attack": 1.0041,
-      "defense": 0.7303,
+      "attack": 0.899,
+      "defense": 0.7355,
       "scorers": [
         {
           "player": "Alexander Isak",
@@ -299,8 +299,8 @@
         "ga_avg": 1.231,
         "matches_considered": 9
       },
-      "attack": 1.6229,
-      "defense": 0.8114,
+      "attack": 1.6345,
+      "defense": 0.8173,
       "scorers": [
         {
           "player": "Erling Haaland",
@@ -324,8 +324,8 @@
         "ga_avg": 1.716,
         "matches_considered": 9
       },
-      "attack": 0.8114,
-      "defense": 1.2172,
+      "attack": 0.8173,
+      "defense": 1.2259,
       "scorers": [
         {
           "player": "Bryan Mbeumo",
@@ -349,8 +349,8 @@
         "ga_avg": 1.643,
         "matches_considered": 8
       },
-      "attack": 1.0954,
-      "defense": 1.278,
+      "attack": 1.1033,
+      "defense": 1.2872,
       "scorers": []
     },
     {
@@ -363,8 +363,8 @@
         "ga_avg": 1.424,
         "matches_considered": 9
       },
-      "attack": 0.4869,
-      "defense": 0.9737,
+      "attack": 0.4904,
+      "defense": 0.9807,
       "scorers": []
     },
     {
@@ -377,8 +377,8 @@
         "ga_avg": 1.97,
         "matches_considered": 9
       },
-      "attack": 0.568,
-      "defense": 1.3794,
+      "attack": 0.5721,
+      "defense": 1.3893,
       "scorers": []
     },
     {
@@ -391,8 +391,8 @@
         "ga_avg": 0.851,
         "matches_considered": 9
       },
-      "attack": 0.8114,
-      "defense": 0.8114,
+      "attack": 0.8173,
+      "defense": 0.8173,
       "scorers": []
     }
   ]
