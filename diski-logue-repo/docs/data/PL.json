@@ -1,7 +1,7 @@
 {
   "competition": "PL",
-  "league_avg_goals": 1.3596,
-  "generated_at_last_match": "2026-11-01T16:30:00Z",
+  "league_avg_goals": 1.35,
+  "generated_at_last_match": "2026-11-02T20:00:00Z",
   "teams": [
     {
       "id": "1044",
@@ -13,8 +13,8 @@
         "ga_avg": 1.191,
         "matches_considered": 9
       },
-      "attack": 1.1442,
-      "defense": 1.0624,
+      "attack": 1.1523,
+      "defense": 1.07,
       "scorers": [
         {
           "player": "Marcus Tavernier",
@@ -38,8 +38,8 @@
         "ga_avg": 0.499,
         "matches_considered": 9
       },
-      "attack": 1.1442,
-      "defense": 0.4086,
+      "attack": 1.1523,
+      "defense": 0.4115,
       "scorers": [
         {
           "player": "Bukayo Saka",
@@ -63,8 +63,8 @@
         "ga_avg": 1.253,
         "matches_considered": 9
       },
-      "attack": 0.8173,
-      "defense": 1.0624,
+      "attack": 0.823,
+      "defense": 1.07,
       "scorers": [
         {
           "player": "Nicolas Jackson",
@@ -83,8 +83,8 @@
         "ga_avg": 0.997,
         "matches_considered": 9
       },
-      "attack": 1.3076,
-      "defense": 0.7355,
+      "attack": 1.3169,
+      "defense": 0.7407,
       "scorers": [
         {
           "player": "Kevin Schade",
@@ -103,8 +103,8 @@
         "ga_avg": 0.656,
         "matches_considered": 9
       },
-      "attack": 1.9614,
-      "defense": 0.5721,
+      "attack": 1.9753,
+      "defense": 0.5761,
       "scorers": [
         {
           "player": "Jack Hinshelwood",
@@ -128,8 +128,8 @@
         "ga_avg": 1.372,
         "matches_considered": 9
       },
-      "attack": 1.5528,
-      "defense": 1.2259,
+      "attack": 1.5638,
+      "defense": 1.2346,
       "scorers": [
         {
           "player": "Jo\u00e3o Pedro",
@@ -163,8 +163,8 @@
         "ga_avg": 1.633,
         "matches_considered": 9
       },
-      "attack": 0.7355,
-      "defense": 1.3076,
+      "attack": 0.7407,
+      "defense": 1.3169,
       "scorers": []
     },
     {
@@ -177,26 +177,26 @@
         "ga_avg": 2.311,
         "matches_considered": 9
       },
-      "attack": 0.7355,
-      "defense": 1.7163,
+      "attack": 0.7407,
+      "defense": 1.7284,
       "scorers": []
     },
     {
       "id": "62",
       "name": "Everton FC",
-      "elo": 1491.0,
+      "elo": 1505.1,
       "form": {
-        "ppg": 1.004,
-        "gf_avg": 0.817,
-        "ga_avg": 1.322,
-        "matches_considered": 8
+        "ppg": 1.394,
+        "gf_avg": 0.853,
+        "ga_avg": 1.064,
+        "matches_considered": 9
       },
-      "attack": 0.7355,
-      "defense": 0.8275,
+      "attack": 0.7407,
+      "defense": 0.7407,
       "scorers": [
         {
           "player": "Thierno Barry",
-          "goals": 3,
+          "goals": 4,
           "share": 1.0
         }
       ]
@@ -211,8 +211,8 @@
         "ga_avg": 0.98,
         "matches_considered": 9
       },
-      "attack": 0.7355,
-      "defense": 0.899,
+      "attack": 0.7407,
+      "defense": 0.9053,
       "scorers": []
     },
     {
@@ -225,8 +225,8 @@
         "ga_avg": 1.314,
         "matches_considered": 9
       },
-      "attack": 0.899,
-      "defense": 0.8173,
+      "attack": 0.9053,
+      "defense": 0.823,
       "scorers": [
         {
           "player": "Mohamed Belloumi",
@@ -245,8 +245,8 @@
         "ga_avg": 1.888,
         "matches_considered": 9
       },
-      "attack": 1.1442,
-      "defense": 1.4711,
+      "attack": 1.1523,
+      "defense": 1.4815,
       "scorers": []
     },
     {
@@ -259,8 +259,8 @@
         "ga_avg": 0.994,
         "matches_considered": 9
       },
-      "attack": 0.7355,
-      "defense": 0.6538,
+      "attack": 0.7407,
+      "defense": 0.6584,
       "scorers": [
         {
           "player": "Dominic Calvert-Lewin",
@@ -279,8 +279,8 @@
         "ga_avg": 0.927,
         "matches_considered": 9
       },
-      "attack": 0.899,
-      "defense": 0.7355,
+      "attack": 0.9053,
+      "defense": 0.7407,
       "scorers": [
         {
           "player": "Alexander Isak",
@@ -299,8 +299,8 @@
         "ga_avg": 1.231,
         "matches_considered": 9
       },
-      "attack": 1.6345,
-      "defense": 0.8173,
+      "attack": 1.6461,
+      "defense": 0.823,
       "scorers": [
         {
           "player": "Erling Haaland",
@@ -324,8 +324,8 @@
         "ga_avg": 1.716,
         "matches_considered": 9
       },
-      "attack": 0.8173,
-      "defense": 1.2259,
+      "attack": 0.823,
+      "defense": 1.2346,
       "scorers": [
         {
           "player": "Bryan Mbeumo",
@@ -342,15 +342,15 @@
     {
       "id": "67",
       "name": "Newcastle United FC",
-      "elo": 1494.4,
+      "elo": 1480.3,
       "form": {
-        "ppg": 1.389,
-        "gf_avg": 1.393,
-        "ga_avg": 1.643,
-        "matches_considered": 8
+        "ppg": 1.118,
+        "gf_avg": 1.121,
+        "ga_avg": 1.518,
+        "matches_considered": 9
       },
-      "attack": 1.1033,
-      "defense": 1.2872,
+      "attack": 0.9877,
+      "defense": 1.2346,
       "scorers": []
     },
     {
@@ -363,8 +363,8 @@
         "ga_avg": 1.424,
         "matches_considered": 9
       },
-      "attack": 0.4904,
-      "defense": 0.9807,
+      "attack": 0.4938,
+      "defense": 0.9877,
       "scorers": []
     },
     {
@@ -377,8 +377,8 @@
         "ga_avg": 1.97,
         "matches_considered": 9
       },
-      "attack": 0.5721,
-      "defense": 1.3893,
+      "attack": 0.5761,
+      "defense": 1.3992,
       "scorers": []
     },
     {
@@ -391,8 +391,8 @@
         "ga_avg": 0.851,
         "matches_considered": 9
       },
-      "attack": 0.8173,
-      "defense": 0.8173,
+      "attack": 0.823,
+      "defense": 0.823,
       "scorers": []
     }
   ]
