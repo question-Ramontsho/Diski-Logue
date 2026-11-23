@@ -1,7 +1,7 @@
 {
   "competition": "PL",
-  "league_avg_goals": 1.3692,
-  "generated_at_last_match": "2026-11-21T17:30:00Z",
+  "league_avg_goals": 1.3716,
+  "generated_at_last_match": "2026-11-22T16:30:00Z",
   "teams": [
     {
       "id": "1044",
@@ -13,8 +13,8 @@
         "ga_avg": 0.908,
         "matches_considered": 10
       },
-      "attack": 1.1952,
-      "defense": 0.9296,
+      "attack": 1.1931,
+      "defense": 0.9279,
       "scorers": [
         {
           "player": "Evanilson",
@@ -38,8 +38,8 @@
         "ga_avg": 0.719,
         "matches_considered": 10
       },
-      "attack": 1.1288,
-      "defense": 0.4648,
+      "attack": 1.1268,
+      "defense": 0.464,
       "scorers": [
         {
           "player": "Bukayo Saka",
@@ -68,8 +68,8 @@
         "ga_avg": 1.354,
         "matches_considered": 10
       },
-      "attack": 0.9296,
-      "defense": 1.1288,
+      "attack": 0.9279,
+      "defense": 1.1268,
       "scorers": [
         {
           "player": "Nicolas Jackson",
@@ -88,22 +88,22 @@
         "ga_avg": 1.185,
         "matches_considered": 10
       },
-      "attack": 1.1686,
-      "defense": 0.8034,
+      "attack": 1.1666,
+      "defense": 0.802,
       "scorers": []
     },
     {
       "id": "397",
       "name": "Brighton & Hove Albion FC",
-      "elo": 1586.8,
+      "elo": 1566.9,
       "form": {
-        "ppg": 2.323,
-        "gf_avg": 2.287,
-        "ga_avg": 0.533,
+        "ppg": 1.864,
+        "gf_avg": 1.797,
+        "ga_avg": 0.827,
         "matches_considered": 10
       },
-      "attack": 1.899,
-      "defense": 0.5113,
+      "attack": 1.7233,
+      "defense": 0.5965,
       "scorers": [
         {
           "player": "Pascal Gro\u00df",
@@ -127,23 +127,18 @@
         "ga_avg": 1.781,
         "matches_considered": 10
       },
-      "attack": 1.328,
-      "defense": 1.328,
+      "attack": 1.3256,
+      "defense": 1.3256,
       "scorers": [
         {
           "player": "Jo\u00e3o Pedro",
           "goals": 5,
-          "share": 0.3846
+          "share": 0.5
         },
         {
           "player": "Morgan Rogers",
           "goals": 5,
-          "share": 0.3846
-        },
-        {
-          "player": "Cole Palmer",
-          "goals": 3,
-          "share": 0.2308
+          "share": 0.5
         }
       ]
     },
@@ -157,8 +152,8 @@
         "ga_avg": 1.868,
         "matches_considered": 10
       },
-      "attack": 0.8632,
-      "defense": 1.3944,
+      "attack": 0.8617,
+      "defense": 1.3919,
       "scorers": []
     },
     {
@@ -171,8 +166,8 @@
         "ga_avg": 2.561,
         "matches_considered": 10
       },
-      "attack": 0.7968,
-      "defense": 1.7927,
+      "attack": 0.7954,
+      "defense": 1.7896,
       "scorers": []
     },
     {
@@ -185,8 +180,8 @@
         "ga_avg": 1.052,
         "matches_considered": 10
       },
-      "attack": 0.8765,
-      "defense": 0.7304,
+      "attack": 0.8749,
+      "defense": 0.7291,
       "scorers": [
         {
           "player": "Thierno Barry",
@@ -210,23 +205,29 @@
         "ga_avg": 0.913,
         "matches_considered": 10
       },
-      "attack": 0.7304,
-      "defense": 0.8632,
+      "attack": 0.7291,
+      "defense": 0.8617,
       "scorers": []
     },
     {
       "id": "322",
       "name": "Hull City AFC",
-      "elo": 1489.7,
+      "elo": 1509.6,
       "form": {
-        "ppg": 0.804,
-        "gf_avg": 1.009,
-        "ga_avg": 1.256,
+        "ppg": 1.133,
+        "gf_avg": 1.157,
+        "ga_avg": 1.067,
         "matches_considered": 10
       },
-      "attack": 0.8034,
-      "defense": 0.8034,
-      "scorers": []
+      "attack": 0.8617,
+      "defense": 0.7291,
+      "scorers": [
+        {
+          "player": "Oliver McBurnie",
+          "goals": 4,
+          "share": 1.0
+        }
+      ]
     },
     {
       "id": "349",
@@ -238,8 +239,8 @@
         "ga_avg": 1.959,
         "matches_considered": 10
       },
-      "attack": 0.996,
-      "defense": 1.4608,
+      "attack": 0.9942,
+      "defense": 1.4582,
       "scorers": []
     },
     {
@@ -252,8 +253,8 @@
         "ga_avg": 0.874,
         "matches_considered": 10
       },
-      "attack": 0.9296,
-      "defense": 0.5976,
+      "attack": 0.9279,
+      "defense": 0.5965,
       "scorers": [
         {
           "player": "Dominic Calvert-Lewin",
@@ -270,15 +271,15 @@
     {
       "id": "64",
       "name": "Liverpool FC",
-      "elo": 1543.1,
+      "elo": 1555.7,
       "form": {
-        "ppg": 1.902,
-        "gf_avg": 1.451,
-        "ga_avg": 0.941,
+        "ppg": 2.14,
+        "gf_avg": 1.906,
+        "ga_avg": 0.726,
         "matches_considered": 10
       },
-      "attack": 1.0225,
-      "defense": 0.7304,
+      "attack": 1.1931,
+      "defense": 0.6628,
       "scorers": [
         {
           "player": "Alexander Isak",
@@ -297,8 +298,8 @@
         "ga_avg": 1.477,
         "matches_considered": 10
       },
-      "attack": 1.4608,
-      "defense": 0.9296,
+      "attack": 1.4582,
+      "defense": 0.9279,
       "scorers": [
         {
           "player": "Erling Haaland",
@@ -315,15 +316,15 @@
     {
       "id": "66",
       "name": "Manchester United FC",
-      "elo": 1455.0,
+      "elo": 1442.4,
       "form": {
-        "ppg": 0.694,
-        "gf_avg": 1.416,
-        "ga_avg": 2.143,
+        "ppg": 0.59,
+        "gf_avg": 1.204,
+        "ga_avg": 2.495,
         "matches_considered": 10
       },
-      "attack": 1.0225,
-      "defense": 1.3877,
+      "attack": 0.9279,
+      "defense": 1.5245,
       "scorers": [
         {
           "player": "Bruno Fernandes",
@@ -347,8 +348,8 @@
         "ga_avg": 1.508,
         "matches_considered": 10
       },
-      "attack": 0.996,
-      "defense": 1.1952,
+      "attack": 0.9942,
+      "defense": 1.1931,
       "scorers": []
     },
     {
@@ -361,8 +362,8 @@
         "ga_avg": 1.48,
         "matches_considered": 10
       },
-      "attack": 0.5976,
-      "defense": 0.996,
+      "attack": 0.5965,
+      "defense": 0.9942,
       "scorers": []
     },
     {
@@ -375,8 +376,8 @@
         "ga_avg": 1.288,
         "matches_considered": 10
       },
-      "attack": 0.5312,
-      "defense": 1.1288,
+      "attack": 0.5303,
+      "defense": 1.1268,
       "scorers": []
     },
     {
@@ -389,8 +390,8 @@
         "ga_avg": 0.637,
         "matches_considered": 10
       },
-      "attack": 0.7968,
-      "defense": 0.7304,
+      "attack": 0.7954,
+      "defense": 0.7291,
       "scorers": []
     }
   ]
